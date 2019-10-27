@@ -24,6 +24,7 @@
          15-719/18-709 Advanced Cloud Computing (Spring 2019) http://www.cs.cmu.edu/~15719/
          15-418/15-618: Parallel Computer Architecture and Programming, Spring 2019  http://www.cs.cmu.edu/afs/cs/academic/class/15418-s19/www/index.html
          18-847F Special Topics in Computer Systems: Foundations of Cloud and Machine Learning Infrastructure  https://www.andrew.cmu.edu/course/18-847F/
+         CS267 Applications of Parallel Computers, https://sites.google.com/lbl.gov/cs267-spr2019/
          
          
          
@@ -54,7 +55,12 @@
        16-745: Optimal Control and Reinforcement Learning, http://www.cs.cmu.edu/~cga/dynopt/
        24-775 Special Topics: Robot Design & Experimentation, http://www.andrew.cmu.edu/user/amj1/classes/robotdesign.html
        24-760 Special Topics: Robot Dynamics and Analysis, http://www.andrew.cmu.edu/user/amj1/classes/robotdynamics.html
+       CS 326 - Topics in Advanced Robotic Manipulation, http://web.stanford.edu/class/cs326/
+       CS336: Robot Perception and Decision-Making ,  http://cs336.stanford.edu/
+       EE290O Deep multi-agent reinforcement learning with applications to autonomous traffic, https://flow-project.github.io/EE290O/schedule.html
+       CS 287: Advanced Robotics, Fall 2019 , https://people.eecs.berkeley.edu/~pabbeel/cs287-fa19/
        
+
 
 
 
@@ -71,16 +77,27 @@
       18-739 Security and Fairness of Deep Learning http://course.ece.cmu.edu/~ece739/
       CS 294-131: Trustworthy Deep Learning (Special Topics in Deep Learning) https://berkeley-deep-learning.github.io/cs294-131-s19/
       Machine Learning Systems (Fall 2019)  https://ucbrise.github.io/cs294-ai-sys-fa19/
+      CS229: Machine Learning, http://cs229.stanford.edu/
+      CS230 Deep Learning, http://cs230.stanford.edu/
+      CS 330: Deep Multi-Task and Meta Learning, http://cs330.stanford.edu/
+      CS 189  Introduction to Machine Learning, https://www.eecs189.org/
+      
       
       
 8: Design/UX:
       Human-AI Interaction http://humanaiclass.org/
+      CS 337 AI-Assisted Health Care, http://cs337.stanford.edu/
+      
+      
 
 8: Experiment/Testing/Evaluation:
 
       15-857: Analytical Performance Modeling & Design of Computer Systems http://www.cs.cmu.edu/~harchol/Perfclass/class19fall.html
       Experimental Design for Machine Learning on Multimedia Data  http://www1.icsi.berkeley.edu/~fractor/fall2019/
       
+9: Decision/Planning/Stragey:
+      
+      CS238 Decision Making under Uncertainty, https://web.stanford.edu/class/aa228/cgi-bin/wp/
       
       
 6: Theory/Algorithm:
@@ -88,6 +105,7 @@
       Advanced Topics in Logic: Automated Reasoning and Satisfiability  http://www.cs.cmu.edu/~mheule/15816-f19/index.html
       15-819 Computational Higher Type Theory     http://www.cs.cmu.edu/~rwh/courses/chtt/
       15-295: Competition Programming and Problem Solving, Fall 2019 https://contest.cs.cmu.edu/295/f19/
+      CS 170 Efficient Algorithms and Intractable Problems  https://cs170.org/
       
       
       
