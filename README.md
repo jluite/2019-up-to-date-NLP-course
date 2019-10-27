@@ -8,13 +8,23 @@
          11-731 Machine Translation and Sequence-to-Sequence Models http://www.phontron.com/class/mtandseq2seq2019/#
          11-468 Speech Processing Fall 2019  http://tts.speech.cs.cmu.edu/courses/11492/
          17-728 Machine Learning and Sensing  http://fall19.mayankgoel.courses/
+         CS224n: Natural Language Processing with Deep Learning  http://web.stanford.edu/class/cs224n/
+         CS 11711 Algorithms for NLP http://demo.clab.cs.cmu.edu/11711fa18/
+         CS 447: Natural Language Processing  https://courses.engr.illinois.edu/cs447/fa2019/
+         CS 4300: Language and Information, Spring 2019  http://www.cs.cornell.edu/courses/cs4300/2019sp/
+         CS5740: Natural Language Processing (Spring 2019) http://www.cs.cornell.edu/courses/cs5740/2019sp/
+         COS 484: Natural Langauge Processing , https://nlp.cs.princeton.edu/cos484/
+         CS 6788 Advanced Topic Modeling https://mimno.infosci.cornell.edu/info6150/
+         COMS W4705: Natural Language Processing  http://www.cs.columbia.edu/~mcollins/cs4705-spring2019/
          
-
 
 
 2: CV/Graphics:
          CS 15-458/858: Discrete Differential Geometry  http://brickisland.net/DDGSpring2019/
-
+         CS231n: Convolutional Neural Networks for Visual Recognition  http://cs231n.stanford.edu/
+         
+   
+   
 
 3: Arichtecture/Computation:
 
@@ -36,12 +46,18 @@
          15-819: Foundations of Quantitative Program Analysis https://www.cs.cmu.edu/~janh/courses/ra19/
 
 
-5: Data Mining:
+5: Data Mining/Big Data:
 
         15-826 Multimedia Databases and Data Mining  http://www.cs.cmu.edu/~christos/courses/826.F19/
         15-721 Advanced Database Systems  https://15721.courses.cs.cmu.edu/spring2019/
-
-
+        CS 368 Algorithmic Techniques for Big Data  http://web.stanford.edu/class/cs368/
+        CS 245 Principles of Data-Intensive Systems  http://web.stanford.edu/class/cs245/
+        CS246: Mining Massive Data Sets  http://web.stanford.edu/class/cs246/
+        
+        
+        
+        
+ 
 6: Robotics/VR: 
 
        15-424: Logical Foundations of Cyber-Physical Systems (Fa'19)  http://www.cs.cmu.edu/~15-821/
@@ -59,12 +75,18 @@
        CS336: Robot Perception and Decision-Making ,  http://cs336.stanford.edu/
        EE290O Deep multi-agent reinforcement learning with applications to autonomous traffic, https://flow-project.github.io/EE290O/schedule.html
        CS 287: Advanced Robotics, Fall 2019 , https://people.eecs.berkeley.edu/~pabbeel/cs287-fa19/
+       CS225A: Experimental Robotics, Spring 2018-19, https://cs.stanford.edu/groups/manips/teaching/cs225a/
+       CS327A: Advanced Robotic Manipulation, https://cs.stanford.edu/groups/manips/teaching/cs327a/
+       CS223A / ME320 : Introduction to Robotics - Winter 2019  https://cs.stanford.edu/groups/manips/teaching/cs223a/
+       6.881  Intelligent Robot Manipulation  http://manipulation.csail.mit.edu/
+       6.832  Underactuated Robotics  http://underactuated.csail.mit.edu/Spring2019/
        
 
 
 
 
-7: Deep Learning/Machine Learning:
+
+7: Deep Learning/Machine Learning/AI:
       
       15-883: Computational Models of Neural Systems  http://www.cs.cmu.edu/afs/cs/academic/class/15883-f19/
       Computational Medicine  https://sites.google.com/site/computationalmedicinecmu/
@@ -81,23 +103,37 @@
       CS230 Deep Learning, http://cs230.stanford.edu/
       CS 330: Deep Multi-Task and Meta Learning, http://cs330.stanford.edu/
       CS 189  Introduction to Machine Learning, https://www.eecs189.org/
+      6.036 Intro to Machine Learning, https://learning-modules.mit.edu/class/index.html?uuid=/course/6/fa19/6.036#info
+      CS221: Artificial Intelligence: Principles and Techniques, https://stanford-cs221.github.io/autumn2019/
+      CS234: Reinforcement Learning Winter 2019  http://web.stanford.edu/class/cs234/index.html
+      6.S979 Topics in Deployable ML -- Fall 2019  https://people.csail.mit.edu/madry/6.S979/
+      6.883 Modeling with machine learning: from algorithms to applications https://learning-modules.mit.edu/class/index.html?uuid=/course/6/sp19/6.883#info
       
       
       
 8: Design/UX:
       Human-AI Interaction http://humanaiclass.org/
       CS 337 AI-Assisted Health Care, http://cs337.stanford.edu/
-      
+      CS294S, CS294W: A Project Course on Human-Centered Software: AI meets Systems.  http://web.stanford.edu/class/cs294s/
+      CS 448M Making Making Machines for Makers  https://cs448m.github.io/
       
 
-8: Experiment/Testing/Evaluation:
+8: Experiment/Testing/Evaluation/Optimization:
 
       15-857: Analytical Performance Modeling & Design of Computer Systems http://www.cs.cmu.edu/~harchol/Perfclass/class19fall.html
       Experimental Design for Machine Learning on Multimedia Data  http://www1.icsi.berkeley.edu/~fractor/fall2019/
+      CS361 Engineering Design Optimization https://web.stanford.edu/class/aa222/cgi-bin/wordpress/
+      
+      
+      
       
 9: Decision/Planning/Stragey:
       
       CS238 Decision Making under Uncertainty, https://web.stanford.edu/class/aa228/cgi-bin/wp/
+      6.853: Algorithmic Game Theory and Data Science, http://www.vsyrgkanis.com/6853sp19/
+      
+      
+      
       
       
 6: Theory/Algorithm:
@@ -106,6 +142,17 @@
       15-819 Computational Higher Type Theory     http://www.cs.cmu.edu/~rwh/courses/chtt/
       15-295: Competition Programming and Problem Solving, Fall 2019 https://contest.cs.cmu.edu/295/f19/
       CS 170 Efficient Algorithms and Intractable Problems  https://cs170.org/
+      6.945 Adventures in Advanced Symbolic Programming https://groups.csail.mit.edu/mac/users/gjs/6.945/
+      CS 205L: Continuous Mathematical Methods with an Emphasis on Machine Learning  http://web.stanford.edu/class/cs205l/lectures.html
+      CS 228 - Probabilistic Graphical Models  https://cs228.stanford.edu/
+      6.886 Algorithm Engineering Spring 2019  https://people.csail.mit.edu/jshun/6886-s19/
+      6.889 Sublinear Time Algorithms  http://people.csail.mit.edu/ronitt/COURSE/S19/
+      6.892 Algorithmic Lower Bounds: Fun with Hardness Proofs (Spring 2019)  http://courses.csail.mit.edu/6.892/spring19/
+      6.890  Learning-Augmented Algorithms  https://stellar.mit.edu/S/course/6/sp19/6.890/index.html
+      
+      
+      
+      
       
       
       
