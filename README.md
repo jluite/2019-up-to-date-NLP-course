@@ -22,6 +22,7 @@
 2: CV/Graphics:
          CS 15-458/858: Discrete Differential Geometry  http://brickisland.net/DDGSpring2019/
          CS231n: Convolutional Neural Networks for Visual Recognition  http://cs231n.stanford.edu/
+         Advanced Graphics and Image Processing  https://www.cl.cam.ac.uk/teaching/1819/L352/
          
    
    
@@ -108,6 +109,7 @@
       CS234: Reinforcement Learning Winter 2019  http://web.stanford.edu/class/cs234/index.html
       6.S979 Topics in Deployable ML -- Fall 2019  https://people.csail.mit.edu/madry/6.S979/
       6.883 Modeling with machine learning: from algorithms to applications https://learning-modules.mit.edu/class/index.html?uuid=/course/6/sp19/6.883#info
+      Probabilistic Machine Learning  https://www.cl.cam.ac.uk/teaching/1819/LE49/
       
       
       
