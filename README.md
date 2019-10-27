@@ -45,8 +45,20 @@
 
        15-424: Logical Foundations of Cyber-Physical Systems (Fa'19)  http://www.cs.cmu.edu/~15-821/
        15-494  Cognitive Robotics  http://www.cs.cmu.edu/afs/cs.cmu.edu/academic/class/15494-s19/schedule.html
+       CSE 490R: Robotics  https://courses.cs.washington.edu/courses/cse490r/18wi/
+       15-482: Autonomous Agents  http://www.cs.cmu.edu/~15482/index.html
+       16-741 Mechanics of Manipulation Fall 2019 , http://www.cs.cmu.edu/afs/cs/academic/class/16741-s07/www/index.html
+       16-782 Planning and Decision-making in Robotics,  http://www.cs.cmu.edu/~maxim/classes/robotplanning_grad/
+       16-833: Robot Localization and Mapping (Spring 2019), http://www.cs.cmu.edu/~kaess/teaching/16833/Spring2019/
+       16-881: Deep Reinforcement Learning for Robotics , https://sites.google.com/view/16-881-cmu/home?authuser=0
+       16-745: Optimal Control and Reinforcement Learning, http://www.cs.cmu.edu/~cga/dynopt/
+       24-775 Special Topics: Robot Design & Experimentation, http://www.andrew.cmu.edu/user/amj1/classes/robotdesign.html
+       24-760 Special Topics: Robot Dynamics and Analysis, http://www.andrew.cmu.edu/user/amj1/classes/robotdynamics.html
+       
 
-7: Deep Learning/NN:
+
+
+7: Deep Learning/Machine Learning:
       
       15-883: Computational Models of Neural Systems  http://www.cs.cmu.edu/afs/cs/academic/class/15883-f19/
       Computational Medicine  https://sites.google.com/site/computationalmedicinecmu/
@@ -57,8 +69,8 @@
       10-315 Introduction to Machine Learning  http://www.cs.cmu.edu/~ninamf/courses/315sp19/
       15-281 Artificial Intelligence: Representation and Problem Solving http://www.cs.cmu.edu/~./15281/
       18-739 Security and Fairness of Deep Learning http://course.ece.cmu.edu/~ece739/
-      
-      
+      CS 294-131: Trustworthy Deep Learning (Special Topics in Deep Learning) https://berkeley-deep-learning.github.io/cs294-131-s19/
+      Machine Learning Systems (Fall 2019)  https://ucbrise.github.io/cs294-ai-sys-fa19/
       
       
 8: Design/UX:
@@ -67,7 +79,10 @@
 8: Experiment/Testing/Evaluation:
 
       15-857: Analytical Performance Modeling & Design of Computer Systems http://www.cs.cmu.edu/~harchol/Perfclass/class19fall.html
-
+      Experimental Design for Machine Learning on Multimedia Data  http://www1.icsi.berkeley.edu/~fractor/fall2019/
+      
+      
+      
 6: Theory/Algorithm:
 
       Advanced Topics in Logic: Automated Reasoning and Satisfiability  http://www.cs.cmu.edu/~mheule/15816-f19/index.html
