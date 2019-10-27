@@ -3,7 +3,12 @@
 
 
 1:  NLP/NLU:
-     
+         11-741 Machine Learning and Text Mining  http://nyc.lti.cs.cmu.edu/classes/11-741/s19/index.html
+         11-747 Neural networks for NLP  http://www.phontron.com/class/nn4nlp2019/
+         11-731 Machine Translation and Sequence-to-Sequence Models http://www.phontron.com/class/mtandseq2seq2019/#
+         11-468 Speech Processing Fall 2019  http://tts.speech.cs.cmu.edu/courses/11492/
+         17-728 Machine Learning and Sensing  http://fall19.mayankgoel.courses/
+         
 
 
 
@@ -12,12 +17,16 @@
 
 
 3: Arichtecture/Computation:
-         
+
          18-746 Storage Systems (Fall 2019)    http://course.ece.cmu.edu/~ece746/
          15-821/18-843  Mobile and Pervasive Computing (IoT)  http://www.cs.cmu.edu/~15-821/
          15-897 Parallel Computing: Theory and Practice  http://www.umut-acar.org/tapp
          15-719/18-709 Advanced Cloud Computing (Spring 2019) http://www.cs.cmu.edu/~15719/
          15-418/15-618: Parallel Computer Architecture and Programming, Spring 2019  http://www.cs.cmu.edu/afs/cs/academic/class/15418-s19/www/index.html
+         18-847F Special Topics in Computer Systems: Foundations of Cloud and Machine Learning Infrastructure  https://www.andrew.cmu.edu/course/18-847F/
+         
+         
+         
 4: Languages:
 
          15-150: Functional Programming, Fall 2019  http://www.cs.cmu.edu/~15150/index.html
@@ -42,6 +51,18 @@
       15-883: Computational Models of Neural Systems  http://www.cs.cmu.edu/afs/cs/academic/class/15883-f19/
       Computational Medicine  https://sites.google.com/site/computationalmedicinecmu/
       15-386/686 Neural Computation  http://www.cnbc.cmu.edu/~tai/nc19.html
+      10-707 Deep Learning Spring 2019 https://deeplearning-cmu-10707.github.io/
+      10-716 ADVANCED MACHINE LEARNING Spring 2019  http://www.cs.cmu.edu/~pradeepr/716/
+      10-418 Machine Learning for Structured Data   http://www.cs.cmu.edu/~mgormley/courses/10418/
+      10-315 Introduction to Machine Learning  http://www.cs.cmu.edu/~ninamf/courses/315sp19/
+      15-281 Artificial Intelligence: Representation and Problem Solving http://www.cs.cmu.edu/~./15281/
+      18-739 Security and Fairness of Deep Learning http://course.ece.cmu.edu/~ece739/
+      
+      
+      
+      
+8: Design/UX:
+      Human-AI Interaction http://humanaiclass.org/
 
 8: Experiment/Testing/Evaluation:
 
