@@ -22,18 +22,39 @@
          Natural Language Processing  https://www.cl.cam.ac.uk/teaching/1819/NLP/
          Denotational Semantics  https://www.cl.cam.ac.uk/teaching/1819/DenotSem/
          Introduction to Natural Language Processing  https://coling.epfl.ch/
+         CS249 Advanced Seminar: Learning from Text  http://oak.cs.ucla.edu/classes/cs249/
+         CS 269Seminar: Machine Learning in Natural Language Processing  https://uclanlp.github.io/CS269-17/overview
+         Natural Language Generation  https://sites.google.com/view/nlg-spring19
+         Natural Language Computing  http://www.cs.toronto.edu/~frank/csc401/
+         CSC 485/2501 -- Introduction to Computational Linguistics  http://www.cs.toronto.edu/~gpenn/csc485/index.html
+         CSC 2518 -- Spoken Language Processing  http://www.cs.toronto.edu/~gpenn/csc2518/index.html
+         CS 4705: Introduction to Natural Language Processing  http://www.cs.columbia.edu/~kathy/NLP/2019/
+         CSE 517 -- Natural Language Processing  https://courses.cs.washington.edu/courses/cse517/19wi/
+         TEXT MINING  https://mimno.infosci.cornell.edu/info3350/
+         INFO/CS 4300: Language and Information  http://www.cs.cornell.edu/courses/cs4300/2019sp/index.html
+         CS 4740/5740 : Introduction to Natural Language Processing  https://www.cs.cornell.edu/courses/cs4740/2019fa/
+         Quantitative Text Analysis  https://kenbenoit.net/quantitative-text-analysis-tcd-2018/
+         Advanced Language Technologies  https://www.cs.cornell.edu/courses/cs6740/2019fa/
+         CS5740: Natural Language Processing  https://www.cs.cornell.edu/courses/cs5740/2019sp/
+         Natural Language Processing and Social Interaction  https://www.cs.cornell.edu/courses/cs6742/2019fa/
+
+
+         
+         
+         
          
          
 
 2: CV/Graphics:
-         CS 15-458/858: Discrete Differential Geometry  http://brickisland.net/DDGSpring2019/
+         CS 15-458/858: Discrete Differential Geometry  http://brickisland.net/DDGSpringhttp://www.stat.ucla.edu/~sczhu/Courses/UCLA/Stat_232A/Stat_232A.html2019/
          CS231n: Convolutional Neural Networks for Visual Recognition  http://cs231n.stanford.edu/
          Advanced Graphics and Image Processing  https://www.cl.cam.ac.uk/teaching/1819/L352/
-         
-   
+         Stat232A: Statistical Modeling and Learning in Vision and Cognition  http://www.stat.ucla.edu/~sczhu/Courses/UCLA/Stat_232A/Stat_232A.html
+        Stat 232B-CS266B:  Statistical Computing and Inference in Vision and Cognition http://www.stat.ucla.edu/~sczhu/Courses/UCLA/Stat_232B/Stat_232B.html
+        
    
 
-3: Arichtecture/Computation:
+3: Arichtecture/Computation/System:
 
          18-746 Storage Systems (Fall 2019)    http://course.ece.cmu.edu/~ece746/
          15-821/18-843  Mobile and Pervasive Computing (IoT)  http://www.cs.cmu.edu/~15-821/
@@ -48,6 +69,14 @@
          Hardware Architectures for Machine Learning  https://www.systems.ethz.ch/courses/spring2019/haml
          Distributed Intelligent Systems (DIS)  https://www.epfl.ch/labs/disal/teaching/distributed_intelligent_systems/
          Advanced Multiprocessor Architecture  https://parsa.epfl.ch/course-info/cs471/
+         CSC-2233: Topics in Storage Systems  http://www.cs.toronto.edu/~bianca/csc2233.html
+         Topics on Datacenter Design  https://www.cc.gatech.edu/~adaglis3/courses/8803.html#about
+         CS 594: Data Center Networking  https://www2.cs.uic.edu/~brents/cs594-dcn/
+         Scalable Systems for the Cloud  https://www.imperial.ac.uk/computing/current-students/courses/410/
+         CS4780/CS5780: Machine Learning for Intelligent Systems http://www.cs.cornell.edu/courses/cs4780/2018fa/
+         CS6465: Emerging Cloud Technologies and Systems Challenges  http://www.cs.cornell.edu/courses/cs6465/2019fa/
+         CS6787 Advanced Machine Learning Systems http://www.cs.cornell.edu/courses/cs6787/2019fa/
+         
          
          
          
@@ -59,6 +88,8 @@
          15-819: Foundations of Quantitative Program Analysis https://www.cs.cmu.edu/~janh/courses/ra19/
          Multicore Semantics and Programming  https://www.cl.cam.ac.uk/teaching/1819/L304/
          CS-725 Topics in Language-based Software Security  https://nebelwelt.net/teaching/18-725-LSS/
+         Programs Generating Programs  https://www.cs.princeton.edu/courses/archive/fall18/cosIW09/index.html
+         Advanced Language Technologies  http://www.cs.cornell.edu/courses/cs6740/2019fa/
          
 
 
@@ -74,9 +105,18 @@
         Advanced topics in mobile and sensor systems and data modelling   https://www.cl.cam.ac.uk/teaching/1819/R249/
         Algorithms for Large-Scale Graph Processing  https://people.inf.ethz.ch/gmohsen/MPC-Seminar-19/
         Applied Data Analysis  https://dlab.epfl.ch/teaching/fall2019/cs401/
-        
-        
-        
+        CS 249: Special Topics - Probablistic Graphical Models for Structured Data http://web.cs.ucla.edu/~yzsun/classes/2019Winter_CS249/index.html
+        CS 247: Advanced Data Mining  https://sites.google.com/view/cs-247/home
+        Machine Learning and Data Mining  http://www.cs.toronto.edu/~bonner/courses/2019f/csc411/
+        CSC 2508 Advanced Data Management Systems  https://koudas.github.io/csc2508-fall2019.html
+        CSC2412 Algorithms for Private Data Analysis (Fall 2019)  http://www.cs.toronto.edu/~anikolov/CSC2412F19/CSC2412.html
+        CSC265 (Fall 2019): Enriched Data Structures and Analysis  http://www.cs.toronto.edu/~anikolov/CSC265F19/index.html
+        Data-Intensive Distributed Computing  https://lintool.github.io/bigdata-2018w/
+        CSEE E6868: Embedded Scalable Platforms  http://www.cs.columbia.edu/~cseesoc/esp_html/
+        CS547: Machine Learning for Big Data  https://courses.cs.washington.edu/courses/cse547/19sp/
+        CSE599T: Topics in Probabilistic and Statistical Databases  https://courses.cs.washington.edu/courses/cse599t/09wi/
+     
+     
         
  
 6: Robotics/VR: 
@@ -104,6 +144,10 @@
        Underactuated Robotics Algorithms for Walking, Running, Swimming, Flying, and Manipulation  http://underactuated.csail.mit.edu/underactuated.html
        Mobile Robot Systems  https://www.cl.cam.ac.uk/teaching/1819/MobRobot/
        COMPSCI 189: Autonomous Robot Systems  https://canvas.harvard.edu/courses/37276
+       Advanced Topics in Control: Distributed Systems and Control  http://people.ee.ethz.ch/~floriand/ATIC.html
+       COMS 6731 HUMANOID ROBOTS  http://www.cs.columbia.edu/~allen/S19/
+       COMS 6998 Topics in Robot Learning   https://sites.google.com/view/robot-learning-2019fall/home
+       Robotics: Algorithms and Applications  https://courses.cs.washington.edu/courses/cse571/19wi/
        
 
 
@@ -144,6 +188,21 @@
       Interaction with machine learning  https://www.cl.cam.ac.uk/teaching/1819/P230/
       Unsupervised and Reinforcement Learning in Neural Networks  https://lcnwww.epfl.ch/gerstner/coursUnsupervised.html
       Advanced Machine Learning  http://lasa.epfl.ch/teaching/lectures/ML_MSc_Advanced/
+      Stat 231 / CS 276A  Pattern Recognition and Machine Learning  http://www.stat.ucla.edu/~sczhu/Courses/UCLA/Stat_231/Stat_231.html
+      CS 3750  Advanced Topics in Machine Learning  https://people.cs.pitt.edu/~milos/courses/cs3750/
+      Machine Learning for Health  https://cs2541-ml4h2019.github.io/
+      Neural Networks and Deep Learning  http://www.cs.toronto.edu/~rgrosse/courses/csc421_2019/
+      Inference and Representation  https://github.com/joanbruna/ir18
+      Deep Generative Models  https://cs.nyu.edu/courses/spring18/CSCI-GA.3033-022/
+      Machine Learning   https://ibug.doc.ic.ac.uk/courses/machine-learning-course-395/
+      CS6780 - Advanced Machine Learning  http://www.cs.cornell.edu/courses/cs6780/2019sp/
+      Spring 2019 Artificial Intelligence Seminar  http://www.cs.cornell.edu/content/spring-2019-artificial-intelligence-seminar
+      CS7792 - Counterfactual Machine Learning   http://www.cs.cornell.edu/courses/cs7792/2018fa/
+      Artificial Intelligence in Games  https://canvas.ucsc.edu/courses/9814
+      CS 4803 / 7643 Deep Learning  https://www.cc.gatech.edu/classes/AY2020/cs7643_fall/
+      Machine Learning for Trading  http://quantsoftware.gatech.edu/Machine_Learning_for_Trading_Course
+      CS6601: Artificial Intelligence  https://docs.google.com/document/d/e/2PACX-1vSfX11I1FjSvXfu7FdhdNa-XwHZx8HK4Ot-nM76dKWE85MB_y6xCN5XkjR-xycY6i4YB67K4Iw0Jkm2/pub
+      
       
       
       
@@ -152,6 +211,11 @@
       CS 337 AI-Assisted Health Care, http://cs337.stanford.edu/
       CS294S, CS294W: A Project Course on Human-Centered Software: AI meets Systems.  http://web.stanford.edu/class/cs294s/
       CS 448M Making Making Machines for Makers  https://cs448m.github.io/
+      CS 889 Human AI Interaction  http://edithlaw.ca/teaching/cs889/2018/index.html
+      
+      
+      
+      
       
 
 8: Experiment/Testing/Evaluation/Optimization:
@@ -163,14 +227,38 @@
       AM 221 : Advanced Optimization http://people.seas.harvard.edu/~yaron/AM221-S16/index.html
       6.255/15.093/IDS.200 Optimization Methods  https://learning-modules.mit.edu/class/index.html?uuid=/course/6/fa19/6.255#info
       Optimization for Machine Learning  https://github.com/epfml/OptML_course
+      CS 239: Debugging and Testing of AI/ML Based Systems, Special Topics in Programming Systems                           http://web.cs.ucla.edu/~miryung/teaching/CS239-Winter2019/main.xhtml
+      COS 598D: Optimization for Machine Learning  https://sites.google.com/view/optimization4machinelearning/home
+      Dynamic A/B Testing  http://www.josephjaywilliams.com/gradcourse
+      COMPILER OPTIMIZATION  http://www.cs.toronto.edu/~pekhimenko/courses/cscd70-w19/
+      Experimental Performance Evaluation  https://cs.uwaterloo.ca/~brecht/courses/854-Experimental-Performance-Evaluation-2018/
+      Intelligent control through learning and optimization  https://homes.cs.washington.edu/~todorov/courses/amath579/
       
       
-9: Decision/Planning/Stragey:
+      
+      
+      
+      
+      
+9: Decision/Planning/Stragey/Reasoning:
       
       CS238 Decision Making under Uncertainty, https://web.stanford.edu/class/aa228/cgi-bin/wp/
       6.853: Algorithmic Game Theory and Data Science, http://www.vsyrgkanis.com/6853sp19/
       EE290O Deep multi-agent reinforcement learning with applications to autonomous traffic  https://flow-project.github.io/EE290O/
       COMPSCI 289: Biologically-inspired Multi-agent Systems  https://canvas.harvard.edu/courses/29752
+      ALGORITHMS FOR COLLECTIVE DECISION MAKING  http://www.cs.toronto.edu/~nisarg/teaching/2556s18/
+      Deep Reinforcement Learning  https://csc2541-f18.github.io/
+      CSC 2512: Advanced Propositional Reasoning  http://www.cs.toronto.edu/~fbacchus/csc2512/
+      Learning to Search  https://duvenaud.github.io/learning-to-search/
+      Probabilistic Learning and Reasoning  http://www.cs.toronto.edu/~jessebett/CSC412/
+      CSE 507: Computer-Aided Reasoning for Software  https://courses.cs.washington.edu/courses/cse507/19au/
+      CS590 Deep Learning for Symbolic Reasoning  http://tiarkrompf.github.io/cs590/2018/
+      Probabilistic Inference  https://deisenroth.cc/teaching/2018-19/probabilistic-inference/
+      CS 6764: Reasoning About Knowledge  http://www.cs.cornell.edu/courses/cs6764/2018fa/
+      CS 6766: Reasoning About Uncertainty  http://www.cs.cornell.edu/courses/cs6766/2019fa/
+      CS 7620 Case-Based Reasoning  https://www.coursehero.com/sitemap/schools/47-Georgia-Institute-Of-Technology/courses/2709540-CS7620/
+      ISYE 4803: Online Learning and Decision Making  https://swatigupta.tech/isye-4803-online-learning-and-decision-making/
+      
       
  
       
@@ -199,10 +287,23 @@
       Logic and Proof  https://www.cl.cam.ac.uk/teaching/1819/LogicProof/
       Hoare Logic and Model Checking  https://www.cl.cam.ac.uk/teaching/1819/HLog+ModC/
       Seminar Geometry: Combinatorics and Algorithms  https://www.ti.inf.ethz.ch/ew/courses/GeoSem19/index.html
-      
-      
-      
-      
+      CS 260 Machine Learning Algorithms  http://web.cs.ucla.edu/~chohsieh/teaching/CS260_Winter2019/main.html
+      CS289ML: Algorithmic machine learning  https://raghumeka.github.io/CS289ML/index.html
+      CS 281 Computability and Complexity  http://web.cs.ucla.edu/~sherstov/teaching/2019-winter/
+      Theoretical Deep Learning  https://www.cs.princeton.edu/courses/archive/fall19/cos597B/
+      COS 597C: Advanced Topics in Automatic Differentiation  https://www.cs.princeton.edu/courses/archive/fall19/cos597C/
+      Theoretical Machine Learning   https://sites.google.com/view/cos-511-tml/home
+      Statistical Methods for Machine Learning II  https://duvenaud.github.io/sta414/
+      Learning Discrete Latent Structure  https://duvenaud.github.io/learn-discrete/
+      CSC 2541F: AI and Ethics: Mathematical Foundations and Algorithms  https://www.cs.toronto.edu/~toni/Courses/Fairness/fair.html
+      CSC 438F/2404F: Computability and Logic  https://www.cs.toronto.edu/~toni/Courses/438-2019/438.html
+      CSC2421 Topics in Algorithms: Online and other Myopic Algorithms  http://www.cs.toronto.edu/~bor/2421f19/
+      CSC473 (Winter 2019): Advanced Algorithms  http://www.cs.toronto.edu/~anikolov/CSC473W19/index.html
+      CS 761 - Randomzied Algorithms  http://www.gautamkamath.com/CS761-fa2019.html
+      Black-Box Analysis: From Theory to Practice  https://teseoch.github.io/blackbox-course-imr/
+      Machine Learning Theory CS6783  http://www.cs.cornell.edu/courses/cs6783/2019fa/
+      Mathematical Foundations of Machine Learning   
+
       
       
       
