@@ -47,7 +47,10 @@
          601.765 Machine Learning: Linguistic & Sequence Modeling  https://seq2class.github.io/
          CS 395T: Grounded Natural Language Processing   http://www.cs.utexas.edu/~mooney/gnlp/
          CS378: Practical Applications of Natural Language Processing  http://www.cs.utexas.edu/users/porter/syllabus-378-Spring19.php
-
+         LIN 389C: Research in Computational Linguistics  http://www.katrinerk.com/courses/lin-389c-research-in-computational-linguistics
+         Introduction to computational linguistics  http://www.katrinerk.com/courses/intro-to-computational-linguistics-ug
+         CS388: Natural Language Processing  http://www.cs.utexas.edu/~gdurrett/courses/fa2019/cs388.shtml
+         
 
          
          
@@ -88,7 +91,7 @@
          CS6787 Advanced Machine Learning Systems http://www.cs.cornell.edu/courses/cs6787/2019fa/
          CS 754: Advanced Distributed Systems  https://cs.uwaterloo.ca/~alkiswan/Classes/CS754-19F/
          CS 395T – Datacenters  http://www.cs.utexas.edu/~simon/395t/
-         
+         CS4780/5780 - Machine Learning for Intelligent Systems http://www.cs.cornell.edu/courses/cs4780/2019fa/
          
          
          
@@ -131,6 +134,10 @@
         Data and Visual Analytics  https://poloclub.github.io/cse6242-2019fall-campus/
         CPSC 547: Information Visualization, https://www.cs.ubc.ca/~tmm/courses/547-19/
         Algorithms for Massive Data  https://www.mit.edu/~andoni/algoS19/index.html
+        CS 510: Advanced Information Retrieval  http://times.cs.uiuc.edu/course/510f19/
+        CIS 700-004: Deep Learning for Data Science  https://www.seas.upenn.edu/~cis700dl/
+        Big Data Analytics  https://sites.google.com/seas.upenn.edu/cis545
+        CS 4786/5786: Machine Learning for Data Science  http://www.cs.cornell.edu/courses/cs4786/2019sp/
         
      
         
@@ -220,6 +227,7 @@
       Machine Learning for Trading  http://quantsoftware.gatech.edu/Machine_Learning_for_Trading_Course
       CS6601: Artificial Intelligence  https://docs.google.com/document/d/e/2PACX-1vSfX11I1FjSvXfu7FdhdNa-XwHZx8HK4Ot-nM76dKWE85MB_y6xCN5XkjR-xycY6i4YB67K4Iw0Jkm2/pub
       CS394N, NEU394P Neural Networks   http://www.cs.utexas.edu/users/risto/cs394n/index.html
+      Deep Learning  https://courses.engr.illinois.edu/ie534/fa2019/
       
       
       
@@ -231,6 +239,7 @@
       CS 448M Making Making Machines for Makers  https://cs448m.github.io/
       CS 889 Human AI Interaction  http://edithlaw.ca/teaching/cs889/2018/index.html
       CPSC-459/559 Building Interactive Machines  https://cpsc459-bim.gitlab.io/f19/
+      Analytics-driven Game Design http://www.cs.cornell.edu/courses/cs4154/2018fa/
       
       
       
@@ -283,6 +292,8 @@
       6.S498: Risk Aware and Robust Nonlinear Planning  https://github.com/jasour/rarnop19
       Causal Modeling in Machine Learning  https://github.com/robertness/causalML
       Advanced Quantitative Methods: Causal Inference for Political Science https://uclspp.github.io/PUBL0050/#course-outline
+      COMP 403/503: Reasoning about Software  http://comp503.blogs.rice.edu/
+      Online Learning, Bandits, Reinforcement and Imitation Learning   https://sites.google.com/view/cs-159-spring-2018/home
       
       
  
