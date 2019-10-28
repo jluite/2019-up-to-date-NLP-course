@@ -37,6 +37,16 @@
          Advanced Language Technologies  https://www.cs.cornell.edu/courses/cs6740/2019fa/
          CS5740: Natural Language Processing  https://www.cs.cornell.edu/courses/cs5740/2019sp/
          Natural Language Processing and Social Interaction  https://www.cs.cornell.edu/courses/cs6742/2019fa/
+         introduction to audio content analysis  https://www.audiocontentanalysis.org/teaching/
+         CSE 8803 DLT: Deep Learning for Text Data  http://chaozhang.org/course/19f-cse8803.html
+         CSE 447/547M: Natural Language Processing  https://courses.cs.washington.edu/courses/cse447/19wi/
+         CSE 599 D1: Advanced Topics in Natural Language Processing  https://wammar.github.io/2018sp_uw_cse_599/
+         Natural Language  https://github.com/jacobeisenstein/gt-nlp-class
+         Natural Language Understanding and Computational Semantics  https://docs.google.com/document/d/1kXhxA4iit2fhAJJGOb32bb151cKLJtW8xWuyMVwqD6s/edit
+         Machine Learning for Language Understanding  https://docs.google.com/document/d/1EsKTFDOJ0DksxkC5tnCNjkqCM_3UB1Q2MbYY4OHQkB0/edit#heading=h.ve7jgh6fmm2k
+         601.765 Machine Learning: Linguistic & Sequence Modeling  https://seq2class.github.io/
+         CS 395T: Grounded Natural Language Processing   http://www.cs.utexas.edu/~mooney/gnlp/
+         CS378: Practical Applications of Natural Language Processing  http://www.cs.utexas.edu/users/porter/syllabus-378-Spring19.php
 
 
          
@@ -76,6 +86,8 @@
          CS4780/CS5780: Machine Learning for Intelligent Systems http://www.cs.cornell.edu/courses/cs4780/2018fa/
          CS6465: Emerging Cloud Technologies and Systems Challenges  http://www.cs.cornell.edu/courses/cs6465/2019fa/
          CS6787 Advanced Machine Learning Systems http://www.cs.cornell.edu/courses/cs6787/2019fa/
+         CS 754: Advanced Distributed Systems  https://cs.uwaterloo.ca/~alkiswan/Classes/CS754-19F/
+         CS 395T – Datacenters  http://www.cs.utexas.edu/~simon/395t/
          
          
          
@@ -90,11 +102,12 @@
          CS-725 Topics in Language-based Software Security  https://nebelwelt.net/teaching/18-725-LSS/
          Programs Generating Programs  https://www.cs.princeton.edu/courses/archive/fall18/cosIW09/index.html
          Advanced Language Technologies  http://www.cs.cornell.edu/courses/cs6740/2019fa/
+         159: Language Processing  http://socsci.uci.edu/~rfutrell/teaching/lsci159-f2019/
          
 
 
 
-5: Data Mining/Big Data:
+5: Data Mining/Data Visualization/Big Data:
 
         15-826 Multimedia Databases and Data Mining  http://www.cs.cmu.edu/~christos/courses/826.F19/
         15-721 Advanced Database Systems  https://15721.courses.cs.cmu.edu/spring2019/
@@ -115,7 +128,10 @@
         CSEE E6868: Embedded Scalable Platforms  http://www.cs.columbia.edu/~cseesoc/esp_html/
         CS547: Machine Learning for Big Data  https://courses.cs.washington.edu/courses/cse547/19sp/
         CSE599T: Topics in Probabilistic and Statistical Databases  https://courses.cs.washington.edu/courses/cse599t/09wi/
-     
+        Data and Visual Analytics  https://poloclub.github.io/cse6242-2019fall-campus/
+        CPSC 547: Information Visualization, https://www.cs.ubc.ca/~tmm/courses/547-19/
+        Algorithms for Massive Data  https://www.mit.edu/~andoni/algoS19/index.html
+        
      
         
  
@@ -148,6 +164,7 @@
        COMS 6731 HUMANOID ROBOTS  http://www.cs.columbia.edu/~allen/S19/
        COMS 6998 Topics in Robot Learning   https://sites.google.com/view/robot-learning-2019fall/home
        Robotics: Algorithms and Applications  https://courses.cs.washington.edu/courses/cse571/19wi/
+       Algorithms for Sensor-Based Robotics  https://cirl.lcsr.jhu.edu/sensorbasedrobotics/
        
 
 
@@ -202,6 +219,7 @@
       CS 4803 / 7643 Deep Learning  https://www.cc.gatech.edu/classes/AY2020/cs7643_fall/
       Machine Learning for Trading  http://quantsoftware.gatech.edu/Machine_Learning_for_Trading_Course
       CS6601: Artificial Intelligence  https://docs.google.com/document/d/e/2PACX-1vSfX11I1FjSvXfu7FdhdNa-XwHZx8HK4Ot-nM76dKWE85MB_y6xCN5XkjR-xycY6i4YB67K4Iw0Jkm2/pub
+      CS394N, NEU394P Neural Networks   http://www.cs.utexas.edu/users/risto/cs394n/index.html
       
       
       
@@ -212,6 +230,7 @@
       CS294S, CS294W: A Project Course on Human-Centered Software: AI meets Systems.  http://web.stanford.edu/class/cs294s/
       CS 448M Making Making Machines for Makers  https://cs448m.github.io/
       CS 889 Human AI Interaction  http://edithlaw.ca/teaching/cs889/2018/index.html
+      CPSC-459/559 Building Interactive Machines  https://cpsc459-bim.gitlab.io/f19/
       
       
       
@@ -233,6 +252,7 @@
       COMPILER OPTIMIZATION  http://www.cs.toronto.edu/~pekhimenko/courses/cscd70-w19/
       Experimental Performance Evaluation  https://cs.uwaterloo.ca/~brecht/courses/854-Experimental-Performance-Evaluation-2018/
       Intelligent control through learning and optimization  https://homes.cs.washington.edu/~todorov/courses/amath579/
+      395T Numerical Optimization for Graphics and AI http://www.cs.utexas.edu/~huangqx/CS395T_2019.html
       
       
       
@@ -258,6 +278,11 @@
       CS 6766: Reasoning About Uncertainty  http://www.cs.cornell.edu/courses/cs6766/2019fa/
       CS 7620 Case-Based Reasoning  https://www.coursehero.com/sitemap/schools/47-Georgia-Institute-Of-Technology/courses/2709540-CS7620/
       ISYE 4803: Online Learning and Decision Making  https://swatigupta.tech/isye-4803-online-learning-and-decision-making/
+      CS 745 Computer Aided Verification  https://github.com/jluite/-2019-AI-/edit/master/README.md
+      CS234: Reinforcement Learning Winter 2019  https://web.stanford.edu/class/cs234/index.html
+      6.S498: Risk Aware and Robust Nonlinear Planning  https://github.com/jasour/rarnop19
+      Causal Modeling in Machine Learning  https://github.com/robertness/causalML
+      Advanced Quantitative Methods: Causal Inference for Political Science https://uclspp.github.io/PUBL0050/#course-outline
       
       
  
@@ -302,7 +327,8 @@
       CS 761 - Randomzied Algorithms  http://www.gautamkamath.com/CS761-fa2019.html
       Black-Box Analysis: From Theory to Practice  https://teseoch.github.io/blackbox-course-imr/
       Machine Learning Theory CS6783  http://www.cs.cornell.edu/courses/cs6783/2019fa/
-      Mathematical Foundations of Machine Learning   
+      Mathematical Foundations of Machine Learning   https://jrom.ece.gatech.edu/mfml-f19/
+      
 
       
       
