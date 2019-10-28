@@ -16,8 +16,11 @@
          COS 484: Natural Langauge Processing , https://nlp.cs.princeton.edu/cos484/
          CS 6788 Advanced Topic Modeling https://mimno.infosci.cornell.edu/info6150/
          COMS W4705: Natural Language Processing  http://www.cs.columbia.edu/~mcollins/cs4705-spring2019/
+         Machine Learning for Language Processing  https://www.cl.cam.ac.uk/teaching/1819/L101/
+         Introduction to Natural Language Syntax and Parsing  https://www.cl.cam.ac.uk/teaching/1819/L95/
+         Overview of Natural Language Processing  https://www.cl.cam.ac.uk/teaching/1819/L90/
+         Natural Language Processing  https://www.cl.cam.ac.uk/teaching/1819/NLP/
          
-
 
 2: CV/Graphics:
          CS 15-458/858: Discrete Differential Geometry  http://brickisland.net/DDGSpring2019/
@@ -45,7 +48,7 @@
          15-814 Types and Programming Languages     http://www.andrew.cmu.edu/course/15-814/ 
          15-745 Optimizing Compilers for Modern Architectures, Spring 2019  http://www.cs.cmu.edu/afs/cs/academic/class/15745-s19/www/
          15-819: Foundations of Quantitative Program Analysis https://www.cs.cmu.edu/~janh/courses/ra19/
-
+         Multicore Semantics and Programming  https://www.cl.cam.ac.uk/teaching/1819/L304/
 
 5: Data Mining/Big Data:
 
@@ -54,6 +57,8 @@
         CS 368 Algorithmic Techniques for Big Data  http://web.stanford.edu/class/cs368/
         CS 245 Principles of Data-Intensive Systems  http://web.stanford.edu/class/cs245/
         CS246: Mining Massive Data Sets  http://web.stanford.edu/class/cs246/
+        Large-Scale Data Processing and Optimisation   https://www.cl.cam.ac.uk/~ey204/teaching/ACS/R244_2018_2019/index.html
+        Advanced topics in mobile and sensor systems and data modelling   https://www.cl.cam.ac.uk/teaching/1819/R249/
         
         
         
@@ -81,6 +86,7 @@
        CS223A / ME320 : Introduction to Robotics - Winter 2019  https://cs.stanford.edu/groups/manips/teaching/cs223a/
        6.881  Intelligent Robot Manipulation  http://manipulation.csail.mit.edu/
        6.832  Underactuated Robotics  http://underactuated.csail.mit.edu/Spring2019/
+       Underactuated Robotics Algorithms for Walking, Running, Swimming, Flying, and Manipulation  http://underactuated.csail.mit.edu/underactuated.html
        
 
 
@@ -110,7 +116,9 @@
       6.S979 Topics in Deployable ML -- Fall 2019  https://people.csail.mit.edu/madry/6.S979/
       6.883 Modeling with machine learning: from algorithms to applications https://learning-modules.mit.edu/class/index.html?uuid=/course/6/sp19/6.883#info
       Probabilistic Machine Learning  https://www.cl.cam.ac.uk/teaching/1819/LE49/
-      
+      Machine Learning  https://www.cl.cam.ac.uk/teaching/1819/L42/
+      Machine Learning and Real-world Data  https://www.cl.cam.ac.uk/teaching/1819/MLRD/materials.html
+      6.S897/HST.956: Machine Learning for Healthcare  https://mlhc19mit.github.io/
       
       
 8: Design/UX:
@@ -133,12 +141,14 @@
       
       CS238 Decision Making under Uncertainty, https://web.stanford.edu/class/aa228/cgi-bin/wp/
       6.853: Algorithmic Game Theory and Data Science, http://www.vsyrgkanis.com/6853sp19/
+      EE290O Deep multi-agent reinforcement learning with applications to autonomous traffic  https://flow-project.github.io/EE290O/
+      
+ 
       
       
       
       
-      
-6: Theory/Algorithm:
+6: Theory/Algorithm/Optimization:
 
       Advanced Topics in Logic: Automated Reasoning and Satisfiability  http://www.cs.cmu.edu/~mheule/15816-f19/index.html
       15-819 Computational Higher Type Theory     http://www.cs.cmu.edu/~rwh/courses/chtt/
@@ -149,8 +159,13 @@
       CS 228 - Probabilistic Graphical Models  https://cs228.stanford.edu/
       6.886 Algorithm Engineering Spring 2019  https://people.csail.mit.edu/jshun/6886-s19/
       6.889 Sublinear Time Algorithms  http://people.csail.mit.edu/ronitt/COURSE/S19/
+      6.255/15.093/IDS.200 Optimization Methods  https://learning-modules.mit.edu/class/index.html?uuid=/course/6/fa19/6.255#info
+      
       6.892 Algorithmic Lower Bounds: Fun with Hardness Proofs (Spring 2019)  http://courses.csail.mit.edu/6.892/spring19/
       6.890  Learning-Augmented Algorithms  https://stellar.mit.edu/S/course/6/sp19/6.890/index.html
+      Algebraic Path Problems  https://www.cl.cam.ac.uk/teaching/1819/L11/
+      6.841/18.405 - Advanced Complexity Theory - Fall 2019 https://people.csail.mit.edu/rrw/6.841-2019/841.html
+      
       
       
       
