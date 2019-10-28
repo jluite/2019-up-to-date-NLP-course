@@ -20,6 +20,7 @@
          Introduction to Natural Language Syntax and Parsing  https://www.cl.cam.ac.uk/teaching/1819/L95/
          Overview of Natural Language Processing  https://www.cl.cam.ac.uk/teaching/1819/L90/
          Natural Language Processing  https://www.cl.cam.ac.uk/teaching/1819/NLP/
+         Denotational Semantics  https://www.cl.cam.ac.uk/teaching/1819/DenotSem/
          
 
 2: CV/Graphics:
@@ -39,7 +40,8 @@
          15-418/15-618: Parallel Computer Architecture and Programming, Spring 2019  http://www.cs.cmu.edu/afs/cs/academic/class/15418-s19/www/index.html
          18-847F Special Topics in Computer Systems: Foundations of Cloud and Machine Learning Infrastructure  https://www.andrew.cmu.edu/course/18-847F/
          CS267 Applications of Parallel Computers, https://sites.google.com/lbl.gov/cs267-spr2019/
-         
+         Comparative Architectures  https://www.cl.cam.ac.uk/teaching/1819/CompArch/
+         High performance networking  https://www.cl.cam.ac.uk/teaching/1819/P51/
          
          
 4: Languages:
@@ -87,6 +89,7 @@
        6.881  Intelligent Robot Manipulation  http://manipulation.csail.mit.edu/
        6.832  Underactuated Robotics  http://underactuated.csail.mit.edu/Spring2019/
        Underactuated Robotics Algorithms for Walking, Running, Swimming, Flying, and Manipulation  http://underactuated.csail.mit.edu/underactuated.html
+       Mobile Robot Systems  https://www.cl.cam.ac.uk/teaching/1819/MobRobot/
        
 
 
@@ -119,6 +122,13 @@
       Machine Learning  https://www.cl.cam.ac.uk/teaching/1819/L42/
       Machine Learning and Real-world Data  https://www.cl.cam.ac.uk/teaching/1819/MLRD/materials.html
       6.S897/HST.956: Machine Learning for Healthcare  https://mlhc19mit.github.io/
+      CS-433  Machine Learning  https://www.epfl.ch/labs/mlo/machine-learning-cs-433/
+      Artificial Intelligence  http://www.cs.ox.ac.uk/teaching/courses/2019-2020/ai/
+      Advanced Topics in Machine Learning  http://www.cs.ox.ac.uk/teaching/courses/2019-2020/advml/
+      Machine Learning and Bayesian Inference  https://www.cl.cam.ac.uk/teaching/1819/MLBayInfer/
+      Machine learning for programming  https://www.cl.cam.ac.uk/teaching/1819/R252/
+      Interaction with machine learning  https://www.cl.cam.ac.uk/teaching/1819/P230/
+      
       
       
 8: Design/UX:
@@ -165,6 +175,10 @@
       6.890  Learning-Augmented Algorithms  https://stellar.mit.edu/S/course/6/sp19/6.890/index.html
       Algebraic Path Problems  https://www.cl.cam.ac.uk/teaching/1819/L11/
       6.841/18.405 - Advanced Complexity Theory - Fall 2019 https://people.csail.mit.edu/rrw/6.841-2019/841.html
+      Advanced probability and applications  https://moodle.epfl.ch/course/view.php?id=14557
+      Automata, Logic and Games  http://www.cs.ox.ac.uk/teaching/courses/2019-2020/automatalogicgames/
+      Logic and Proof  https://www.cl.cam.ac.uk/teaching/1819/LogicProof/
+      Hoare Logic and Model Checking  https://www.cl.cam.ac.uk/teaching/1819/HLog+ModC/
       
       
       
