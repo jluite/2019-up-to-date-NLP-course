@@ -21,6 +21,8 @@
          Overview of Natural Language Processing  https://www.cl.cam.ac.uk/teaching/1819/L90/
          Natural Language Processing  https://www.cl.cam.ac.uk/teaching/1819/NLP/
          Denotational Semantics  https://www.cl.cam.ac.uk/teaching/1819/DenotSem/
+         Introduction to Natural Language Processing  https://coling.epfl.ch/
+         
          
 
 2: CV/Graphics:
@@ -42,6 +44,11 @@
          CS267 Applications of Parallel Computers, https://sites.google.com/lbl.gov/cs267-spr2019/
          Comparative Architectures  https://www.cl.cam.ac.uk/teaching/1819/CompArch/
          High performance networking  https://www.cl.cam.ac.uk/teaching/1819/P51/
+         Massively Parallel Algorithms  https://people.inf.ethz.ch/gmohsen/MPA19/
+         Hardware Architectures for Machine Learning  https://www.systems.ethz.ch/courses/spring2019/haml
+         Distributed Intelligent Systems (DIS)  https://www.epfl.ch/labs/disal/teaching/distributed_intelligent_systems/
+         Advanced Multiprocessor Architecture  https://parsa.epfl.ch/course-info/cs471/
+         
          
          
 4: Languages:
@@ -51,6 +58,10 @@
          15-745 Optimizing Compilers for Modern Architectures, Spring 2019  http://www.cs.cmu.edu/afs/cs/academic/class/15745-s19/www/
          15-819: Foundations of Quantitative Program Analysis https://www.cs.cmu.edu/~janh/courses/ra19/
          Multicore Semantics and Programming  https://www.cl.cam.ac.uk/teaching/1819/L304/
+         CS-725 Topics in Language-based Software Security  https://nebelwelt.net/teaching/18-725-LSS/
+         
+
+
 
 5: Data Mining/Big Data:
 
@@ -61,6 +72,8 @@
         CS246: Mining Massive Data Sets  http://web.stanford.edu/class/cs246/
         Large-Scale Data Processing and Optimisation   https://www.cl.cam.ac.uk/~ey204/teaching/ACS/R244_2018_2019/index.html
         Advanced topics in mobile and sensor systems and data modelling   https://www.cl.cam.ac.uk/teaching/1819/R249/
+        Algorithms for Large-Scale Graph Processing  https://people.inf.ethz.ch/gmohsen/MPC-Seminar-19/
+        Applied Data Analysis  https://dlab.epfl.ch/teaching/fall2019/cs401/
         
         
         
@@ -90,6 +103,7 @@
        6.832  Underactuated Robotics  http://underactuated.csail.mit.edu/Spring2019/
        Underactuated Robotics Algorithms for Walking, Running, Swimming, Flying, and Manipulation  http://underactuated.csail.mit.edu/underactuated.html
        Mobile Robot Systems  https://www.cl.cam.ac.uk/teaching/1819/MobRobot/
+       COMPSCI 189: Autonomous Robot Systems  https://canvas.harvard.edu/courses/37276
        
 
 
@@ -128,6 +142,8 @@
       Machine Learning and Bayesian Inference  https://www.cl.cam.ac.uk/teaching/1819/MLBayInfer/
       Machine learning for programming  https://www.cl.cam.ac.uk/teaching/1819/R252/
       Interaction with machine learning  https://www.cl.cam.ac.uk/teaching/1819/P230/
+      Unsupervised and Reinforcement Learning in Neural Networks  https://lcnwww.epfl.ch/gerstner/coursUnsupervised.html
+      Advanced Machine Learning  http://lasa.epfl.ch/teaching/lectures/ML_MSc_Advanced/
       
       
       
@@ -143,8 +159,10 @@
       15-857: Analytical Performance Modeling & Design of Computer Systems http://www.cs.cmu.edu/~harchol/Perfclass/class19fall.html
       Experimental Design for Machine Learning on Multimedia Data  http://www1.icsi.berkeley.edu/~fractor/fall2019/
       CS361 Engineering Design Optimization https://web.stanford.edu/class/aa222/cgi-bin/wordpress/
-      
-      
+      CSC2206 Systems Modelling and Analysis  http://www.cs.toronto.edu/~marbach/csc2206_F19.html
+      AM 221 : Advanced Optimization http://people.seas.harvard.edu/~yaron/AM221-S16/index.html
+      6.255/15.093/IDS.200 Optimization Methods  https://learning-modules.mit.edu/class/index.html?uuid=/course/6/fa19/6.255#info
+      Optimization for Machine Learning  https://github.com/epfml/OptML_course
       
       
 9: Decision/Planning/Stragey:
@@ -152,13 +170,14 @@
       CS238 Decision Making under Uncertainty, https://web.stanford.edu/class/aa228/cgi-bin/wp/
       6.853: Algorithmic Game Theory and Data Science, http://www.vsyrgkanis.com/6853sp19/
       EE290O Deep multi-agent reinforcement learning with applications to autonomous traffic  https://flow-project.github.io/EE290O/
+      COMPSCI 289: Biologically-inspired Multi-agent Systems  https://canvas.harvard.edu/courses/29752
       
  
       
       
       
       
-6: Theory/Algorithm/Optimization:
+6: Theory/Algorithm:
 
       Advanced Topics in Logic: Automated Reasoning and Satisfiability  http://www.cs.cmu.edu/~mheule/15816-f19/index.html
       15-819 Computational Higher Type Theory     http://www.cs.cmu.edu/~rwh/courses/chtt/
@@ -169,7 +188,7 @@
       CS 228 - Probabilistic Graphical Models  https://cs228.stanford.edu/
       6.886 Algorithm Engineering Spring 2019  https://people.csail.mit.edu/jshun/6886-s19/
       6.889 Sublinear Time Algorithms  http://people.csail.mit.edu/ronitt/COURSE/S19/
-      6.255/15.093/IDS.200 Optimization Methods  https://learning-modules.mit.edu/class/index.html?uuid=/course/6/fa19/6.255#info
+     
       
       6.892 Algorithmic Lower Bounds: Fun with Hardness Proofs (Spring 2019)  http://courses.csail.mit.edu/6.892/spring19/
       6.890  Learning-Augmented Algorithms  https://stellar.mit.edu/S/course/6/sp19/6.890/index.html
@@ -179,6 +198,7 @@
       Automata, Logic and Games  http://www.cs.ox.ac.uk/teaching/courses/2019-2020/automatalogicgames/
       Logic and Proof  https://www.cl.cam.ac.uk/teaching/1819/LogicProof/
       Hoare Logic and Model Checking  https://www.cl.cam.ac.uk/teaching/1819/HLog+ModC/
+      Seminar Geometry: Combinatorics and Algorithms  https://www.ti.inf.ethz.ch/ew/courses/GeoSem19/index.html
       
       
       
