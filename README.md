@@ -51,13 +51,13 @@
 |CSE 447/547M:|[ Natural Language Processing](https://courses.cs.washington.edu/courses/cse447/19wi/)|||
 |CSE 599 D1|: [Advanced Topics in Natural Language Processing ](https://wammar.github.io/2018sp_uw_cse_599/)|||
 ||[Natural Language](https://github.com/jacobeisenstein/gt-nlp-class)|||
-||[Natural Language Understanding and Computational Semantics ] (https://docs.google.com/document/d/1kXhxA4iit2fhAJJGOb32bb151cKLJtW8xWuyMVwqD6s/edit)|||
+||[Natural Language Understanding and Computational Semantics ](https://docs.google.com/document/d/1kXhxA4iit2fhAJJGOb32bb151cKLJtW8xWuyMVwqD6s/edit)|||
 ||[Machine Learning for Language Understanding]( https://docs.google.com/document/d/1EsKTFDOJ0DksxkC5tnCNjkqCM_3UB1Q2MbYY4OHQkB0/edit#heading=h.ve7jgh6fmm2k)|||
 |601.765|[ Machine Learning: Linguistic & Sequence Modeling](https://seq2class.github.io/)|||
 |CS 395T:| [Grounded Natural Language Processing](http://www.cs.utexas.edu/~mooney/gnlp/)|||
 |CS378:| [Practical Applications of Natural Language Processing ](http://www.cs.utexas.edu/users/porter/syllabus-378-Spring19.php)|||
 |LIN 389C:| [Research in Computational Linguistics](http://www.katrinerk.com/courses/lin-389c-research-in-computational-linguistics)|||
-||]Introduction to computational linguistics](http://www.katrinerk.com/courses/intro-to-computational-linguistics-ug)|||
+||[Introduction to computational linguistics](http://www.katrinerk.com/courses/intro-to-computational-linguistics-ug)|||
 |CS388: |[Natural Language Processing ](http://www.cs.utexas.edu/~gdurrett/courses/fa2019/cs388.shtml)|||
 
 
