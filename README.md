@@ -15,50 +15,50 @@
 |11-741|[Machine Learning and Text Mining](http://nyc.lti.cs.cmu.edu/classes/11-741/s19/index.html)|CMU|PhD-level, MS-level and undergraduate students |
 |11-747| [Neural networks for NLP](http://www.phontron.com/class/nn4nlp2019/)|||
 |11-731 |[Machine Translation and Sequence-to-Sequence Models](http://www.phontron.com/class/mtandseq2seq2019/#)|||
-         |11-468| [Speech Processing Fall 2019](http://tts.speech.cs.cmu.edu/courses/11492/)|||
-         |17-728| [Machine Learning and Sensing](http://fall19.mayankgoel.courses/)|||
-         |CS224n:| [Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/)|||
-         |CS 11711| [Algorithms for NLP](http://demo.clab.cs.cmu.edu/11711fa18/)|||
-         |CS 447:| [Natural Language Processing](https://courses.engr.illinois.edu/cs447/fa2019/)|||
-         |CS 4300:| [Language and Information, Spring 2019](http://www.cs.cornell.edu/courses/cs4300/2019sp/)|||
-         |CS5740:| [Natural Language Processing (Spring 2019)](http://www.cs.cornell.edu/courses/cs5740/2019sp/)|||
-         |COS 484:|[Natural Langauge Processing](https://nlp.cs.princeton.edu/cos484/)|||
-         |CS 6788 |[Advanced Topic Modeling]( https://mimno.infosci.cornell.edu/info6150/)|||
-         |COMS W4705:| [Natural Language Processing](http://www.cs.columbia.edu/~mcollins/cs4705-spring2019/)|||
-         ||[Machine Learning for Language Processing] ( https://www.cl.cam.ac.uk/teaching/1819/L101/)|||
-         ||[Introduction to Natural Language Syntax and Parsing] ( https://www.cl.cam.ac.uk/teaching/1819/L95/)|||
-         ||POverview of Natural Language Processing] ( https://www.cl.cam.ac.uk/teaching/1819/L90/)|||
-         ||[Natural Language Processing]  (https://www.cl.cam.ac.uk/teaching/1819/NLP/)|||
-         ||[Denotational Semantics]  (https://www.cl.cam.ac.uk/teaching/1819/DenotSem/)|||
-         ||[Introduction to Natural Language Processing] ( https://coling.epfl.ch/)|||
-         |CS249 |[Advanced Seminar: Learning from Text] ( http://oak.cs.ucla.edu/classes/cs249/)|||
-         |CS 269|[Seminar: Machine Learning in Natural Language Processing](  https://uclanlp.github.io/CS269-17/overview)|||
-         ||[Natural Language Generation](  https://sites.google.com/view/nlg-spring19)|||
-         ||[Natural Language Computing]  (http://www.cs.toronto.edu/~frank/csc401/)|||
-         |CSC 485/2501 | [Introduction to Computational Linguistics]  (http://www.cs.toronto.edu/~gpenn/csc485/index.html)|||
-         |CSC 2518| [Spoken Language Processing]  (http://www.cs.toronto.edu/~gpenn/csc2518/index.html)|||
-         |CS 4705:| [Introduction to Natural Language Processing] ( http://www.cs.columbia.edu/~kathy/NLP/2019/)|||
-         |CSE 517 |  [Natural Language Processing] ( https://courses.cs.washington.edu/courses/cse517/19wi/)|||
-         ||[TEXT MINING] ( https://mimno.infosci.cornell.edu/info3350/)|||
-         |INFO/CS 4300| [Language and Information](  http://www.cs.cornell.edu/courses/cs4300/2019sp/index.html)|||
-         |CS 4740/5740 | [Introduction to Natural Language Processing] ( https://www.cs.cornell.edu/courses/cs4740/2019fa/)|||
-         ||[Quantitative Text Analysis] ( https://kenbenoit.net/quantitative-text-analysis-tcd-2018/)|||
-         ||[Advanced Language Technologies]  (https://www.cs.cornell.edu/courses/cs6740/2019fa/)|||
-         |CS5740:| [Natural Language Processing ] (https://www.cs.cornell.edu/courses/cs5740/2019sp/)|||
-         ||[Natural Language Processing and Social Interaction] ( https://www.cs.cornell.edu/courses/cs6742/2019fa/)|||
-         ||[introduction to audio content analysis] ( https://www.audiocontentanalysis.org/teaching/)|||
-         |CSE 8803 DLT:|[Deep Learning for Text Data](  http://chaozhang.org/course/19f-cse8803.html)|||
-         |CSE 447/547M:|[ Natural Language Processing] ( https://courses.cs.washington.edu/courses/cse447/19wi/)|||
-         |CSE 599 D1|: [Advanced Topics in Natural Language Processing ]( https://wammar.github.io/2018sp_uw_cse_599/)|||
-         ||[Natural Language]  (https://github.com/jacobeisenstein/gt-nlp-class)|||
-         ||[Natural Language Understanding and Computational Semantics ] (https://docs.google.com/document/d/1kXhxA4iit2fhAJJGOb32bb151cKLJtW8xWuyMVwqD6s/edit)|||
-         ||[Machine Learning for Language Understanding] ( https://docs.google.com/document/d/1EsKTFDOJ0DksxkC5tnCNjkqCM_3UB1Q2MbYY4OHQkB0/edit#heading=h.ve7jgh6fmm2k)|||
-         |601.765|[ Machine Learning: Linguistic & Sequence Modeling](  https://seq2class.github.io/)|||
-         |CS 395T:| [Grounded Natural Language Processing]  ( http://www.cs.utexas.edu/~mooney/gnlp/)|||
-         |CS378:| [Practical Applications of Natural Language Processing ] http://www.cs.utexas.edu/users/porter/syllabus-378-Spring19.php)|||
-         |LIN 389C:| [Research in Computational Linguistics] ( http://www.katrinerk.com/courses/lin-389c-research-in-computational-linguistics)|||
-         ||]Introduction to computational linguistics] ( http://www.katrinerk.com/courses/intro-to-computational-linguistics-ug)|||
-         |CS388: |[Natural Language Processing ] (http://www.cs.utexas.edu/~gdurrett/courses/fa2019/cs388.shtml)|||
+|11-468| [Speech Processing Fall 2019](http://tts.speech.cs.cmu.edu/courses/11492/)|||
+|17-728| [Machine Learning and Sensing](http://fall19.mayankgoel.courses/)|||
+|CS224n:| [Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/)|||
+|CS 11711| [Algorithms for NLP](http://demo.clab.cs.cmu.edu/11711fa18/)|||
+|CS 447:| [Natural Language Processing](https://courses.engr.illinois.edu/cs447/fa2019/)|||
+|CS 4300:| [Language and Information, Spring 2019](http://www.cs.cornell.edu/courses/cs4300/2019sp/)|||
+|CS5740:| [Natural Language Processing (Spring 2019)](http://www.cs.cornell.edu/courses/cs5740/2019sp/)|||
+|COS 484:|[Natural Langauge Processing](https://nlp.cs.princeton.edu/cos484/)|||
+|CS 6788 |[Advanced Topic Modeling]( https://mimno.infosci.cornell.edu/info6150/)|||
+|COMS W4705:| [Natural Language Processing](http://www.cs.columbia.edu/~mcollins/cs4705-spring2019/)|||
+||[Machine Learning for Language Processing] ( https://www.cl.cam.ac.uk/teaching/1819/L101/)|||
+||[Introduction to Natural Language Syntax and Parsing] ( https://www.cl.cam.ac.uk/teaching/1819/L95/)|||
+||POverview of Natural Language Processing] ( https://www.cl.cam.ac.uk/teaching/1819/L90/)|||
+||[Natural Language Processing]  (https://www.cl.cam.ac.uk/teaching/1819/NLP/)|||
+||[Denotational Semantics]  (https://www.cl.cam.ac.uk/teaching/1819/DenotSem/)|||
+||[Introduction to Natural Language Processing] ( https://coling.epfl.ch/)|||
+|CS249 |[Advanced Seminar: Learning from Text] ( http://oak.cs.ucla.edu/classes/cs249/)|||
+|CS 269|[Seminar: Machine Learning in Natural Language Processing](  https://uclanlp.github.io/CS269-17/overview)|||
+||[Natural Language Generation](  https://sites.google.com/view/nlg-spring19)|||
+||[Natural Language Computing]  (http://www.cs.toronto.edu/~frank/csc401/)|||
+|CSC 485/2501 | [Introduction to Computational Linguistics]  (http://www.cs.toronto.edu/~gpenn/csc485/index.html)|||
+|CSC 2518| [Spoken Language Processing]  (http://www.cs.toronto.edu/~gpenn/csc2518/index.html)|||
+|CS 4705:| [Introduction to Natural Language Processing] ( http://www.cs.columbia.edu/~kathy/NLP/2019/)|||
+|CSE 517 |  [Natural Language Processing] ( https://courses.cs.washington.edu/courses/cse517/19wi/)|||
+||[TEXT MINING] ( https://mimno.infosci.cornell.edu/info3350/)|||
+|INFO/CS 4300| [Language and Information](  http://www.cs.cornell.edu/courses/cs4300/2019sp/index.html)|||
+|CS 4740/5740 | [Introduction to Natural Language Processing] ( https://www.cs.cornell.edu/courses/cs4740/2019fa/)|||
+||[Quantitative Text Analysis] ( https://kenbenoit.net/quantitative-text-analysis-tcd-2018/)|||
+||[Advanced Language Technologies]  (https://www.cs.cornell.edu/courses/cs6740/2019fa/)|||
+|CS5740:| [Natural Language Processing ] (https://www.cs.cornell.edu/courses/cs5740/2019sp/)|||
+||[Natural Language Processing and Social Interaction] ( https://www.cs.cornell.edu/courses/cs6742/2019fa/)|||
+||[introduction to audio content analysis] ( https://www.audiocontentanalysis.org/teaching/)|||
+|CSE 8803 DLT:|[Deep Learning for Text Data](  http://chaozhang.org/course/19f-cse8803.html)|||
+|CSE 447/547M:|[ Natural Language Processing] ( https://courses.cs.washington.edu/courses/cse447/19wi/)|||
+|CSE 599 D1|: [Advanced Topics in Natural Language Processing ]( https://wammar.github.io/2018sp_uw_cse_599/)|||
+||[Natural Language]  (https://github.com/jacobeisenstein/gt-nlp-class)|||
+||[Natural Language Understanding and Computational Semantics ] (https://docs.google.com/document/d/1kXhxA4iit2fhAJJGOb32bb151cKLJtW8xWuyMVwqD6s/edit)|||
+||[Machine Learning for Language Understanding] ( https://docs.google.com/document/d/1EsKTFDOJ0DksxkC5tnCNjkqCM_3UB1Q2MbYY4OHQkB0/edit#heading=h.ve7jgh6fmm2k)|||
+|601.765|[ Machine Learning: Linguistic & Sequence Modeling](  https://seq2class.github.io/)|||
+|CS 395T:| [Grounded Natural Language Processing]  ( http://www.cs.utexas.edu/~mooney/gnlp/)|||
+|CS378:| [Practical Applications of Natural Language Processing ] http://www.cs.utexas.edu/users/porter/syllabus-378-Spring19.php)|||
+|LIN 389C:| [Research in Computational Linguistics] ( http://www.katrinerk.com/courses/lin-389c-research-in-computational-linguistics)|||
+||]Introduction to computational linguistics] ( http://www.katrinerk.com/courses/intro-to-computational-linguistics-ug)|||
+|CS388: |[Natural Language Processing ] (http://www.cs.utexas.edu/~gdurrett/courses/fa2019/cs388.shtml)|||
 
 
 
