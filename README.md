@@ -5,12 +5,8 @@
 
 2019年最新人工智能课程（包括Stanford, Berkeley, MIT, CMU 等Top CS Ranking学校 ) , 收集这些课程的目的是为了更好学习“state of the art” 教学成果，而个学习时候最好结合相关作业进行理解和实践。
 
-Name | Academy | score
-- | :-: | -:
-Harry Potter | Gryffindor| 90
-Hermione Granger | Gryffindor | 100
-Draco Malfoy | Slytherin | 90
 
+# NLP/NLU
 
 
 1:  NLP/NLU:
@@ -66,7 +62,7 @@ Draco Malfoy | Slytherin | 90
 
          
          
-         
+# CV/Graphics
          
          
 
@@ -78,6 +74,8 @@ Draco Malfoy | Slytherin | 90
         Stat 232B-CS266B:  Statistical Computing and Inference in Vision and Cognition http://www.stat.ucla.edu/~sczhu/Courses/UCLA/Stat_232B/Stat_232B.html
         
    
+# Arichtecture/Computation/System
+
 
 3: Arichtecture/Computation/System:
 
@@ -105,7 +103,7 @@ Draco Malfoy | Slytherin | 90
          CS 395T – Datacenters  http://www.cs.utexas.edu/~simon/395t/
          CS4780/5780 - Machine Learning for Intelligent Systems http://www.cs.cornell.edu/courses/cs4780/2019fa/
          
-         
+# Languages         
          
 4: Languages:
 
@@ -120,7 +118,7 @@ Draco Malfoy | Slytherin | 90
          159: Language Processing  http://socsci.uci.edu/~rfutrell/teaching/lsci159-f2019/
          
 
-
+# Data Mining/Data Visualization/Big Data
 
 5: Data Mining/Data Visualization/Big Data:
 
@@ -151,7 +149,9 @@ Draco Malfoy | Slytherin | 90
         Big Data Analytics  https://sites.google.com/seas.upenn.edu/cis545
         CS 4786/5786: Machine Learning for Data Science  http://www.cs.cornell.edu/courses/cs4786/2019sp/
         
-     
+    
+    
+# Robotics/VR
         
  
 6: Robotics/VR: 
@@ -188,7 +188,7 @@ Draco Malfoy | Slytherin | 90
 
 
 
-
+# Deep Learning/Machine Learning/AI
 
 7: Deep Learning/Machine Learning/AI:
       
@@ -243,6 +243,8 @@ Draco Malfoy | Slytherin | 90
       
       
       
+# Design/UX
+      
       
 8: Design/UX:
       Human-AI Interaction http://humanaiclass.org/
@@ -257,7 +259,7 @@ Draco Malfoy | Slytherin | 90
       
       
       
-
+# Experiment/Testing/Evaluation/Optimization
 8: Experiment/Testing/Evaluation/Optimization:
 
       15-857: Analytical Performance Modeling & Design of Computer Systems http://www.cs.cmu.edu/~harchol/Perfclass/class19fall.html
@@ -279,6 +281,8 @@ Draco Malfoy | Slytherin | 90
       
       
       
+      
+# Decision/Planning/Stragey/Reasoning      
       
       
 9: Decision/Planning/Stragey/Reasoning:
@@ -310,7 +314,7 @@ Draco Malfoy | Slytherin | 90
       
  
       
-      
+# Theory/Algorithm      
       
       
 6: Theory/Algorithm:
