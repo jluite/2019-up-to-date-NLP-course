@@ -10,6 +10,8 @@
 
 # NLP/NLU
 
+|#|course|university|level|
+|---|----|-----|-----|
 
 
          11-741 Machine Learning and Text Mining **http://nyc.lti.cs.cmu.edu/classes/11-741/s19/index.html**
