@@ -12,64 +12,157 @@
 
 |#|**course**|**university**|**Course Description**|
 |---|----|-----|-----|
-|11-741|[Machine Learning and Text Mining](http://nyc.lti.cs.cmu.edu/classes/11-741/s19/index.html)|CMU|This is a full-semester lecture-oriented course (12 units) for the PhD-level, MS-level and undergraduate students who meet the prerequisites. It offers a blend of core theory, algorithms, evaluation methodologies and applications of scalable data analytic techniques. Specifically, the covered topics includeLink Analysis,Collaborative Filtering,Social-media Analysis,Web-scale Text Classification, Learning to Rank for Information Retrieval,Deep Learning for Text Analysis,Matrix factorization (with SVD, non-negative and probabilistic matrix completion),Stochastic gradient descent,Statistical significance tests |
+|11-741|[Machine Learning and Text Mining](http://nyc.lti.cs.cmu.edu/classes/11-741/s19/index.html)|CMU|This is a full-semester lecture-oriented course (12 units) for the PhD-level, MS-level and undergraduate students who meet the prerequisites. It offers a blend of core theory, algorithms, evaluation methodologies and applications of scalable data analytic techniques. Specifically, the covered topics include Link Analysis,Collaborative Filtering,Social-media Analysis,Web-scale Text Classification,Learning to Rank for Information Retrieval,Deep Learning for Text Analysis,Matrix factorization (with SVD, non-negative and probabilistic matrix completion),Stochastic gradient descent,Statistical significance tests |
 |11-747| [Neural networks for NLP](http://www.phontron.com/class/nn4nlp2019/)|CMU|Neural networks provide powerful new tools for modeling language, and have been used both to improve the state-of-the-art in a number of tasks and to tackle new problems that were not easy in the past. This class will start with a brief overview of neural networks, then spend the majority of the class demonstrating how to apply neural networks to natural language problems. Each section will introduce a particular problem or phenomenon in natural language, describe why it is difficult to model, and demonstrate several models that were designed to tackle this problem. In the process of doing so, the class will cover different techniques that are useful in creating neural network models, including handling variably sized and structured sentences, efficient handling of large data, semi-supervised and unsupervised learning, structured prediction, and multilingual modeling|
 
 
 
+|11-731 |[Machine Translation and Sequence-to-Sequence Models](http://www.phontron.com/class/mtandseq2seq2019/#)|CMU|Neural networks provide powerful new tools for modeling language, and have been used both to improve the state-of-the-art in a number of tasks and to tackle new problems that were not easy in the past. This class will start with a brief overview of neural networks, then spend the majority of the class demonstrating how to apply neural networks to natural language problems. Each section will introduce a particular problem or phenomenon in natural language, describe why it is difficult to model, and demonstrate several models that were designed to tackle this problem. In the process of doing so, the class will cover different techniques that are useful in creating neural network models, including handling variably sized and structured sentences, efficient handling of large data, semi-supervised and unsupervised learning, structured prediction, and multilingual modeling.|
+
+
+
+|11-468| [Speech Processing Fall 2019](http://tts.speech.cs.cmu.edu/courses/11492/)|CMU|Speech Processing offers a practical and theoretical understanding of how human speech can be processed by computers. It covers speech recognition, speech synthesis and spoken dialog systems. The course involves practicals where the student will build working speech recognition systems, build their own synthetic voice and build a complete spoken dialog system. This work will be based on existing toolkits. Details of algorithms, techniques and limitations of state of the art speech systems will also be presented. This course is designed for students wishing understand how to process real data for real applications, applying statistical and machine learning techniques as well as working with limitations in the technology.|
+
+
+
+|17-728| [Machine Learning and Sensing](http://fall19.mayankgoel.courses/)|CMU|Machine learning and sensors are at the core of most modern computing devices and technology. From Amazon Echo to Apple Watch to Google Photos to self-driving cars, making sense of the data coming from powerful but noisy sensors is a critical challenge. The course will aim to explore this intersection of sensors and machine learning, understand the inner workings of modern computing technologies, and design the future ones. We will cover data collection, signal processing, data processing, data visualization, feature engineering, machine learning tools, and some prototyping technologies. The course will focus on class discussions, hands-on demonstrations, and tutorials. We will evaluate students on their class participation, multiple mini-projects, and a final team project.|
+
+
+
+|CS224n:| [Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/)|Stanford|Natural language processing (NLP) is one of the most important technologies of the information age, and a crucial part of artificial intelligence. Applications of NLP are everywhere because people communicate almost everything in language: web search, advertising, emails, customer service, language translation, virtual agents, medical reports, etc. In recent years, Deep Learning approaches have obtained very high performance across many different NLP tasks, using single end-to-end neural models that do not require traditional, task-specific feature engineering. In this course, students will gain a thorough introduction to cutting-edge research in Deep Learning for NLP. Through lectures, assignments and a final project, students will learn the necessary skills to design, implement, and understand their own neural network models. This year, CS224n will be taught for the first time using PyTorch rather than TensorFlow (as in previous years).|
+
+
+
+|CS 11711| [Algorithms for NLP](http://demo.clab.cs.cmu.edu/11711fa18/)|CMU|This course will explore current statistical techniques for the automatic analysis of natural (human) language data. The dominant modeling paradigm is corpus-driven statistical learning, with a split focus between supervised and unsupervised methods. This term we are making Algorithms for NLP a lab-based course. Instead of homeworks and exams, you will complete four hands-on coding projects. This course assumes a good background in basic probability and a strong ability to program in Java. Prior experience with linguistics or natural languages is helpful, but not required. There will be a lot of statistics, algorithms, and coding in this class.Slides, materials, and projects for this iteration of Algorithms for NLP are borrowed from Dan Jurafsky at Stanford, Dan Klein and David Bamman at UC Berkeley and Nathan Schneider at Georgetown|
 
 
 
 
+|CS 447:| [Natural Language Processing](https://courses.engr.illinois.edu/cs447/fa2019/)|UIUC|This course provides an introduction to computational linguistics, from morphology (word formation) and syntax (sentence structure) to semantics (meaning), and natural language processing applications such as parsing, machine translation, generation and dialog systems.|
 
 
 
-|11-747| [Neural networks for NLP](http://www.phontron.com/class/nn4nlp2019/)|||
-|11-731 |[Machine Translation and Sequence-to-Sequence Models](http://www.phontron.com/class/mtandseq2seq2019/#)|||
-|11-468| [Speech Processing Fall 2019](http://tts.speech.cs.cmu.edu/courses/11492/)|||
-|17-728| [Machine Learning and Sensing](http://fall19.mayankgoel.courses/)|||
-|CS224n:| [Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/)|||
-|CS 11711| [Algorithms for NLP](http://demo.clab.cs.cmu.edu/11711fa18/)|||
-|CS 447:| [Natural Language Processing](https://courses.engr.illinois.edu/cs447/fa2019/)|||
-|CS 4300:| [Language and Information, Spring 2019](http://www.cs.cornell.edu/courses/cs4300/2019sp/)|||
+|CS 4300:| [Language and Information, Spring 2019](http://www.cs.cornell.edu/courses/cs4300/2019sp/)|Cornell|How to make sense of the vast amounts of information available online, and how to relate it and to the social context in which it appears? This course introduces basic tools for retrieving and analyzing unstructured textual infordia. Applications include information retrieval (with human feedback), sentiment analysis and social analysis of text. The coursework will include programming projects that play on the interaction between knowledge and social factors.|
+
+
+
 |CS5740:| [Natural Language Processing (Spring 2019)](http://www.cs.cornell.edu/courses/cs5740/2019sp/)|||
+
+
+
 |COS 484:|[Natural Langauge Processing](https://nlp.cs.princeton.edu/cos484/)|||
+
+
 |CS 6788 |[Advanced Topic Modeling](https://mimno.infosci.cornell.edu/info6150/)|||
+
+
+
 |COMS W4705:| [Natural Language Processing](http://www.cs.columbia.edu/~mcollins/cs4705-spring2019/)|||
+
+
+
 ||[Machine Learning for Language Processing](https://www.cl.cam.ac.uk/teaching/1819/L101/)|||
+
+
+
 ||[Introduction to Natural Language Syntax and Parsing](https://www.cl.cam.ac.uk/teaching/1819/L95/)|||
+
+
 ||[Overview of Natural Language Processing](https://www.cl.cam.ac.uk/teaching/1819/L90/)|||
+
+
 ||[Natural Language Processing](https://www.cl.cam.ac.uk/teaching/1819/NLP/)|||
+
+
 ||[Denotational Semantics](https://www.cl.cam.ac.uk/teaching/1819/DenotSem/)|||
+
+
 ||[Introduction to Natural Language Processing](https://coling.epfl.ch/)|||
+
+
 |CS249 |[Advanced Seminar: Learning from Text](http://oak.cs.ucla.edu/classes/cs249/)|||
+
+
 |CS 269|[Seminar: Machine Learning in Natural Language Processing](https://uclanlp.github.io/CS269-17/overview)|||
+
+
 ||[Natural Language Generation](https://sites.google.com/view/nlg-spring19)|||
+
+
 ||[Natural Language Computing](http://www.cs.toronto.edu/~frank/csc401/)|||
+
+
 |CSC 485/2501 | [Introduction to Computational Linguistics](http://www.cs.toronto.edu/~gpenn/csc485/index.html)|||
+
+
 |CSC 2518| [Spoken Language Processing](http://www.cs.toronto.edu/~gpenn/csc2518/index.html)|||
+
+
 |CS 4705:| [Introduction to Natural Language Processing]( http://www.cs.columbia.edu/~kathy/NLP/2019/)|||
+
+
 |CSE 517 |  [Natural Language Processing](https://courses.cs.washington.edu/courses/cse517/19wi/)|||
+
+
 ||[TEXT MINING](https://mimno.infosci.cornell.edu/info3350/)|||
+
+
 |INFO/CS 4300| [Language and Information](http://www.cs.cornell.edu/courses/cs4300/2019sp/index.html)|||
+
+
 |CS 4740/5740 | [Introduction to Natural Language Processing](https://www.cs.cornell.edu/courses/cs4740/2019fa/)|||
+
+
 ||[Quantitative Text Analysis](https://kenbenoit.net/quantitative-text-analysis-tcd-2018/)|||
+
+
 ||[Advanced Language Technologies](https://www.cs.cornell.edu/courses/cs6740/2019fa/)|||
+
+
 |CS5740:| [Natural Language Processing ](https://www.cs.cornell.edu/courses/cs5740/2019sp/)|||
+
+
 ||[Natural Language Processing and Social Interaction](https://www.cs.cornell.edu/courses/cs6742/2019fa/)|||
+
+
 ||[introduction to audio content analysis](https://www.audiocontentanalysis.org/teaching/)|||
+
+
 |CSE 8803 DLT:|[Deep Learning for Text Data](http://chaozhang.org/course/19f-cse8803.html)|||
+
+
 |CSE 447/547M:|[ Natural Language Processing](https://courses.cs.washington.edu/courses/cse447/19wi/)|||
+
+
 |CSE 599 D1|: [Advanced Topics in Natural Language Processing ](https://wammar.github.io/2018sp_uw_cse_599/)|||
+
 ||[Natural Language](https://github.com/jacobeisenstein/gt-nlp-class)|||
+
 ||[Natural Language Understanding and Computational Semantics ](https://docs.google.com/document/d/1kXhxA4iit2fhAJJGOb32bb151cKLJtW8xWuyMVwqD6s/edit)|||
+
+
 ||[Machine Learning for Language Understanding]( https://docs.google.com/document/d/1EsKTFDOJ0DksxkC5tnCNjkqCM_3UB1Q2MbYY4OHQkB0/edit#heading=h.ve7jgh6fmm2k)|||
+
+
 |601.765|[ Machine Learning: Linguistic & Sequence Modeling](https://seq2class.github.io/)|||
+
+
 |CS 395T:| [Grounded Natural Language Processing](http://www.cs.utexas.edu/~mooney/gnlp/)|||
+
+
 |CS378:| [Practical Applications of Natural Language Processing ](http://www.cs.utexas.edu/users/porter/syllabus-378-Spring19.php)|||
+
+
 |LIN 389C:| [Research in Computational Linguistics](http://www.katrinerk.com/courses/lin-389c-research-in-computational-linguistics)|||
+
+
 ||[Introduction to computational linguistics](http://www.katrinerk.com/courses/intro-to-computational-linguistics-ug)|||
+
+
 |CS388: |[Natural Language Processing ](http://www.cs.utexas.edu/~gdurrett/courses/fa2019/cs388.shtml)|||
+
+
+
 
 
 
