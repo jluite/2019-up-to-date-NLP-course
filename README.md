@@ -28,8 +28,8 @@
 ||[Machine Learning for Language Processing](https://www.cl.cam.ac.uk/teaching/1819/L101/)|||
 ||[Introduction to Natural Language Syntax and Parsing](https://www.cl.cam.ac.uk/teaching/1819/L95/)|||
 ||[Overview of Natural Language Processing](https://www.cl.cam.ac.uk/teaching/1819/L90/)|||
-||[Natural Language Processing]  (https://www.cl.cam.ac.uk/teaching/1819/NLP/)|||
-||[Denotational Semantics]  (https://www.cl.cam.ac.uk/teaching/1819/DenotSem/)|||
+||[Natural Language Processing](https://www.cl.cam.ac.uk/teaching/1819/NLP/)|||
+||[Denotational Semantics](https://www.cl.cam.ac.uk/teaching/1819/DenotSem/)|||
 ||[Introduction to Natural Language Processing](https://coling.epfl.ch/)|||
 |CS249 |[Advanced Seminar: Learning from Text](http://oak.cs.ucla.edu/classes/cs249/)|||
 |CS 269|[Seminar: Machine Learning in Natural Language Processing](https://uclanlp.github.io/CS269-17/overview)|||
