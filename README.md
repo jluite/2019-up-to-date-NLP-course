@@ -13,8 +13,8 @@
 |#|**course**|**university**|**level**|
 |---|----|-----|-----|
 |11-741|[Machine Learning and Text Mining](http://nyc.lti.cs.cmu.edu/classes/11-741/s19/index.html)|CMU|PhD-level, MS-level and undergraduate students |
-   |11-747| [Neural networks for NLP](http://www.phontron.com/class/nn4nlp2019/)|||
-         |11-731 |[Machine Translation and Sequence-to-Sequence Models](http://www.phontron.com/class/mtandseq2seq2019/#)|||
+|11-747| [Neural networks for NLP](http://www.phontron.com/class/nn4nlp2019/)|||
+|11-731 |[Machine Translation and Sequence-to-Sequence Models](http://www.phontron.com/class/mtandseq2seq2019/#)|||
          |11-468| [Speech Processing Fall 2019](http://tts.speech.cs.cmu.edu/courses/11492/)|||
          |17-728| [Machine Learning and Sensing](http://fall19.mayankgoel.courses/)|||
          |CS224n:| [Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/)|||
