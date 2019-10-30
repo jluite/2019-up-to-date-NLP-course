@@ -27,7 +27,7 @@
 |COMS W4705:| [Natural Language Processing](http://www.cs.columbia.edu/~mcollins/cs4705-spring2019/)|||
 ||[Machine Learning for Language Processing](https://www.cl.cam.ac.uk/teaching/1819/L101/)|||
 ||[Introduction to Natural Language Syntax and Parsing](https://www.cl.cam.ac.uk/teaching/1819/L95/)|||
-||POverview of Natural Language Processing](https://www.cl.cam.ac.uk/teaching/1819/L90/)|||
+||[Overview of Natural Language Processing](https://www.cl.cam.ac.uk/teaching/1819/L90/)|||
 ||[Natural Language Processing]  (https://www.cl.cam.ac.uk/teaching/1819/NLP/)|||
 ||[Denotational Semantics]  (https://www.cl.cam.ac.uk/teaching/1819/DenotSem/)|||
 ||[Introduction to Natural Language Processing](https://coling.epfl.ch/)|||
