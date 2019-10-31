@@ -87,55 +87,61 @@ Several application domains will be presented: Linguistic engineering, Informati
 |CS 269|[Seminar: Machine Learning in Natural Language Processing](https://uclanlp.github.io/CS269-17/overview)|UCLA|Natural language processing (NLP) enables computers to use and understand human languages. Recently, NLP techniques have been widely used in many applications including machine translation, question answering, and extracting information from text. In this course, we will cover the fundamental elements and recent research trends in NLP. Tentative topics include syntactic analysis, semantic analysis, and NLP applications as well as the underlying machine learning methods that widely used in modeling NLP systems. The activities of the course include lectures, paper presentations, quizzes, a critical review report, and a final project.|
 
 
-||[Natural Language Generation](https://sites.google.com/view/nlg-spring19)|||
+| COS IW 06|[Natural Language Generation](https://sites.google.com/view/nlg-spring19)|Princeton|Recent advances in deep learning have led to exciting developments in natural language processing, especially in areas like translation, question answering and sentiment analysis. However, generating accurate and fluent language remains a major challenge even today. This seminar will study the latest research in natural language generation and allow students to choose and work on a research project in this space. The project can focus on either new theoretical or algorithmic developments in language generation, applications of generation to tasks in NLP, or development of new evaluation metrics for generation systems.  |
 
 
-||[Natural Language Computing](http://www.cs.toronto.edu/~frank/csc401/)|||
 
 
-|CSC 485/2501 | [Introduction to Computational Linguistics](http://www.cs.toronto.edu/~gpenn/csc485/index.html)|||
 
 
-|CSC 2518| [Spoken Language Processing](http://www.cs.toronto.edu/~gpenn/csc2518/index.html)|||
+|csc401|[Natural Language Computing](http://www.cs.toronto.edu/~frank/csc401/)|Toronto|This course presents an introduction to natural language computing in applications such as information retrieval and extraction, intelligent web searching, speech recognition, and machine translation. These applications will involve various statistical and machine learning techniques. Assignments will be completed in Python. All code must run on the 'teaching servers'.|
 
 
-|CS 4705:| [Introduction to Natural Language Processing]( http://www.cs.columbia.edu/~kathy/NLP/2019/)|||
+|CSC 485/2501 | [Introduction to Computational Linguistics](http://www.cs.toronto.edu/~gpenn/csc485/index.html)|Toronto|Introduction to Computational Linguistics Syntax Parsing Ambiguity Resolution Statistical Attachment Disambiguation Lexical Semantics Word Sense Disambiguation Statistical Parsing Anaphora Semantic Representation and Processing|
 
 
-|CSE 517 |  [Natural Language Processing](https://courses.cs.washington.edu/courses/cse517/19wi/)|||
+|CSC 2518| [Spoken Language Processing](http://www.cs.toronto.edu/~gpenn/csc2518/index.html)|Toronto|Robustness/Learned Representations Reductive Architectures/Under-resourced Languages Intelligibility/Enhancement/Adaptation Policy Gradients/Reinforcement Learning Time-domain/Phase Representations|
 
 
-||[TEXT MINING](https://mimno.infosci.cornell.edu/info3350/)|||
+|CS 4705:| [Introduction to Natural Language Processing]( http://www.cs.columbia.edu/~kathy/NLP/2019/)|columbia|This course provides an introduction to the field of natural language processing (NLP). We will learn how to create systems that can analyze, understand and produce language. We will begin by discussing machine learning methods for NLP as well as core NLP, such as language modeling, part of speech tagging and parsing. We will also discuss applications such as information extraction, machine translation, text generation and automatic summarization. The course will primarily cover statistical and machine learning based approaches to language processing, but it will also introduce the use of linguistic concepts that play a role. We will study machine learning methods currently used in NLP, including supervised machine learning, hidden markov models, and neural networks. Homework assignments will include both written components and programming assignments.|
 
 
-|INFO/CS 4300| [Language and Information](http://www.cs.cornell.edu/courses/cs4300/2019sp/index.html)|||
+|CSE 517 |  [Natural Language Processing](https://courses.cs.washington.edu/courses/cse517/19wi/)|washington| Introduction to language models, HMM/EM/PCFG/CRFS/NN|
 
 
-|CS 4740/5740 | [Introduction to Natural Language Processing](https://www.cs.cornell.edu/courses/cs4740/2019fa/)|||
+||[TEXT MINING](https://mimno.infosci.cornell.edu/info3350/)|cornell|The course will introduce students to research methods in computer-assisted scholarship. We will learn to represent text documents in computational forms, and to appreciate the effect of choices we make in this process. We will cover a selection of popular tools such as classification, clustering, and topic modeling. Each week we will discuss both the details of computational methods and how each method can be applied in the context of scholarly research.|
 
 
-||[Quantitative Text Analysis](https://kenbenoit.net/quantitative-text-analysis-tcd-2018/)|||
+|INFO/CS 4300| [Language and Information](http://www.cs.cornell.edu/courses/cs4300/2019sp/index.html)|cornell|How to make sense of the vast amounts of information available online, and how to relate it and to the social context in which it appears? This course introduces basic tools for retrieving and analyzing unstructured textual infordia. Applications include information retrieval (with human feedback), sentiment analysis and social analysis of text. The coursework will include programming projects that play on the interaction between knowledge and social factors.|
 
 
-||[Advanced Language Technologies](https://www.cs.cornell.edu/courses/cs6740/2019fa/)|||
+|CS 4740/5740 | [Introduction to Natural Language Processing](https://www.cs.cornell.edu/courses/cs4740/2019fa/)|cornell|This course constitutes an introduction to natural language processing (NLP), the goal of which is to enable computers to use human languages as input, output, or both. NLP is at the heart of many of today's most exciting technological achievements, including machine translation, automatic conversational assistants and Internet search. Possible topics include methods for handling underlying linguistic phenomena (e.g., syntactic analysis, word sense disambiguation and discourse analysis) and vital emerging applications (e.g., machine translation, sentiment analysis, summarization and information extraction).|
 
 
-|CS5740:| [Natural Language Processing ](https://www.cs.cornell.edu/courses/cs5740/2019sp/)|||
+|TCD 2018|[Quantitative Text Analysis](https://kenbenoit.net/quantitative-text-analysis-tcd-2018/)|LSE|The course surveys methods for systematically extracting quantitative information from political text for social scientific purposes, starting with classical content analysis and dictionary-based methods, to classification methods, and state-of-the-art scaling methods and topic models for estimating quantities from text using statistical techniques. The course lays a theoretical foundation for text analysis but mainly takes a very practical and applied approach, so that students learn how to apply these methods in actual research. The common focus across all methods is that they can be reduced to a three-step process: first, identifying texts and units of texts for analysis; second, extracting from the texts quantitatively measured features - such as coded content categories, word counts, word types, dictionary counts, or parts of speech - and converting these into a quantitative matrix; and third, using quantitative or statistical methods to analyse this matrix in order to generate inferences about the texts or their authors. The course systematically covers these methods in a logical progression, with a practical, hands-on approach where each technique will be applied using appropriate software to real texts.|
 
 
-||[Natural Language Processing and Social Interaction](https://www.cs.cornell.edu/courses/cs6742/2019fa/)|||
+|cs6740|[Advanced Language Technologies](https://www.cs.cornell.edu/courses/cs6740/2019fa/)|cornell|This course covers selected advanced topics in natural language processing (NLP) and/or information retrieval, with a conscious attempt to avoid topics covered by other Cornell courses.|
 
 
-||[introduction to audio content analysis](https://www.audiocontentanalysis.org/teaching/)|||
+|CS5740:| [Natural Language Processing ](https://www.cs.cornell.edu/courses/cs5740/2019sp/)|cornell|This course constitutes a depth-first technical introduction to natural language processing (NLP). NLP is at the heart of many of today’s most exciting technological achievements, including machine translation, automatic conversational assistants and Internet search. The goal of the course is to provide a deep understanding of the language of the field, including algorithms, core problems, methods, and data. Possible topics include text classification, lexical semantics, language modeling, machine translation, tagging and sequence modeling, parsing, compositional semantics, summarization, question answering, language grounding, information extraction, and sentiment analysis.|
 
 
-|CSE 8803 DLT:|[Deep Learning for Text Data](http://chaozhang.org/course/19f-cse8803.html)|||
+|cs6742|[Natural Language Processing and Social Interaction](https://www.cs.cornell.edu/courses/cs6742/2019fa/)|cornell||
 
 
-|CSE 447/547M:|[ Natural Language Processing](https://courses.cs.washington.edu/courses/cse447/19wi/)|||
+||[introduction to audio content analysis](https://www.audiocontentanalysis.org/teaching/)|Georgia Institute of Technology
+
+|This course is an introduction to the software-based analysis of digital music signals (Music Information Retrieval) for students with existing background in audio processing. It covers the basic approaches for audio content analysis and provides students with the necessary algorithmic background to approach this class of problems. Topics include, for example, pitch tracking, beat tracking, audio feature extraction, and genre classification.|
 
 
-|CSE 599 D1|: [Advanced Topics in Natural Language Processing ](https://wammar.github.io/2018sp_uw_cse_599/)|||
+|CSE 8803 DLT:|[Deep Learning for Text Data](http://chaozhang.org/course/19f-cse8803.html)|Georgia Institute of Technology|This course will introduce state-of-the-art machine learning techniques for mainstay problems in text data analysis, with particular emphasis on deep learning methods that have recently achieved enormous success. The students will learn about trending problems in this field, key methods for solving these problems, and their advantages and disadvantages. The students are also expected to read and present cutting edge research papers, as well as conduct a research oriented course project. The course will provide useful techniques for students who want to solve practical problems involving text data, and better prepare those who want to do edge-cutting research in text mining, information retrieval, natural language processing, and text-rich interdisciplinary research. The learning objective is that by the end of this course, the students are able to formulate their text analysis problems at hand, choose appropriate statistical models for the problems, and even come up with innovative solutions for solving open research problems in this field.|
+
+
+|CSE 447/547M:|[ Natural Language Processing](https://courses.cs.washington.edu/courses/cse447/19wi/)|washington|Natural language processing (NLP) seeks to endow computers with the ability to intelligently process human language. NLP components are used in conversational agents and other systems that engage in dialogue with humans, automatic translation between human languages, automatic answering of questions using large text collections, the extraction of structured information from text, tools that help human authors, and many, many more. This course will teach you the fundamental ideas used in key NLP components.|
+
+
+|CSE 599 D1|: [Advanced Topics in Natural Language Processing ](https://wammar.github.io/2018sp_uw_cse_599/)|Washington|In this course, we will review some of the highly influential papers which had a sustained impact on NLP research. Each week, participants will either give a 10-20 minute presentation or write a peer review for one of the focus papers for that week. Paper presentations will be followed by a group discussion of what influence this paper had in NLP. The papers will cover a mixture of topics including information extraction, syntactic parsing, semantic parsing, structured models, reinforcement learning and dataset construction.|
 
 ||[Natural Language](https://github.com/jacobeisenstein/gt-nlp-class)|||
 
