@@ -46,44 +46,45 @@
 
 
 
-|CS5740:| [Natural Language Processing (Spring 2019)](http://www.cs.cornell.edu/courses/cs5740/2019sp/)|||
+|CS5740:| [Natural Language Processing (Spring 2019)](http://www.cs.cornell.edu/courses/cs5740/2019sp/)|Cornell|This course constitutes a depth-first technical introduction to natural language processing (NLP). NLP is at the heart of many of today’s most exciting technological achievements, including machine translation, automatic conversational assistants and Internet search. The goal of the course is to provide a deep understanding of the language of the field, including algorithms, core problems, methods, and data. Possible topics include text classification, lexical semantics, language modeling, machine translation, tagging and sequence modeling, parsing, compositional semantics, summarization, question answering, language grounding, information extraction, and sentiment analysis.|
 
 
 
-|COS 484:|[Natural Langauge Processing](https://nlp.cs.princeton.edu/cos484/)|||
+|COS 484:|[Natural Langauge Processing](https://nlp.cs.princeton.edu/cos484/)|Princeton|Recent advances have ushered in exciting developments in natural language processing (NLP), resulting in systems that can translate text, answer questions and even hold spoken conversations with us. This course will introduce students to the basics of NLP, covering standard frameworks for dealing with natural language as well as algorithms and techniques to solve various NLP problems, including recent deep learning approaches. Topics covered include language modeling, representation learning, text classification, sequence tagging, syntactic parsing, machine translation, question answering and others.|
 
 
-|CS 6788 |[Advanced Topic Modeling](https://mimno.infosci.cornell.edu/info6150/)|||
-
-
-
-|COMS W4705:| [Natural Language Processing](http://www.cs.columbia.edu/~mcollins/cs4705-spring2019/)|||
+|CS 6788 |[Advanced Topic Modeling](https://mimno.infosci.cornell.edu/info6150/)|Cornell|Topic models, and other unsupervised matrix factorization methods, have emerged as a powerful technique in machine learning and data science because they sit at an ideal point between simplicity and complexity. Data analysts like them because they provide sophisticated insight without attempting real natural language understanding. From an algorithmic standpoint, they are an excellent test case for new inference methods because the topic model objective is hard in the sense that it is multi-modal and non-convex, but it is also reasonably easy to find good approximate solutions.|
 
 
 
-||[Machine Learning for Language Processing](https://www.cl.cam.ac.uk/teaching/1819/L101/)|||
+|COMS W4705:| [Natural Language Processing](http://www.cs.columbia.edu/~mcollins/cs4705-spring2019/)|Columbia| COMS W4705 is a graduate introduction to natural language processing, the study of human language from a computational perspective. We will cover syntactic, semantic and discourse processing models. The emphasis will be on machine learning or corpus-based methods and algorithms. We will describe the use of these methods and models in applications including syntactic parsing, information extraction, statistical machine translation, dialogue systems, and summarization.|
 
 
 
-||[Introduction to Natural Language Syntax and Parsing](https://www.cl.cam.ac.uk/teaching/1819/L95/)|||
+||[Machine Learning for Language Processing](https://www.cl.cam.ac.uk/teaching/1819/L101/)|Cambridge|This module aims to provide an introduction to machine learning with specific application to tasks such as document classification, spam email filtering, language modelling, part-of-speech tagging, and named entity and event recognition for textual information extraction. We will cover supervised, weakly-supervised and unsupervised approaches using generative and discriminative classifiers based on graphical models, including (hidden) Markov models and CRFs, and clustering / dimensionality-reduction methods, such as latent Dirichlet allocation and neural word embeddings.|
 
 
-||[Overview of Natural Language Processing](https://www.cl.cam.ac.uk/teaching/1819/L90/)|||
+
+||[Introduction to Natural Language Syntax and Parsing](https://www.cl.cam.ac.uk/teaching/1819/L95/)|Cambridge|This module aims to provide a brief introduction to linguistics for computer scientists and then goes on to cover some of the core tasks in natural language processing (NLP), focussing on statistical parsing of sentences to yield syntactic and semantic representations. We will look at how to evaluate parsers and see how well state-of-the-art tools perform given current techniques.|
 
 
-||[Natural Language Processing](https://www.cl.cam.ac.uk/teaching/1819/NLP/)|||
+||[Overview of Natural Language Processing](https://www.cl.cam.ac.uk/teaching/1819/L90/)|Cambridge|This course introduces the fundamental techniques of natural language processing. It aims to explain the potential and the main limitations of these techniques. Some current research issues are introduced and some current and potential applications discussed and evaluated. Students will also be introduced to practical experimentation in natural language processing.|
 
 
-||[Denotational Semantics](https://www.cl.cam.ac.uk/teaching/1819/DenotSem/)|||
+||[Natural Language Processing](https://www.cl.cam.ac.uk/teaching/1819/NLP/)|Cambridge|This course introduces the fundamental techniques of natural language processing. It aims to explain the potential and the main limitations of these techniques. Some current research issues are introduced and some current and potential applications discussed and evaluated. Students will also be introduced to practical experimentation in natural language processing.|
 
 
-||[Introduction to Natural Language Processing](https://coling.epfl.ch/)|||
+||[Denotational Semantics](https://www.cl.cam.ac.uk/teaching/1819/DenotSem/)|Cambridge|The aims of this course are to introduce domain theory and denotational semantics, and to show how they provide a mathematical basis for reasoning about the behaviour of programming languages.|
 
 
-|CS249 |[Advanced Seminar: Learning from Text](http://oak.cs.ucla.edu/classes/cs249/)|||
+||[Introduction to Natural Language Processing](https://coling.epfl.ch/)|EPFL|Several models and algorithms for automated textual data processing will be described: (1) morpho-lexical level: electronic lexica, spelling checkers, ...; (2) syntactic level: regular, context-free, stochastic grammars, parsing algorithms, ...; (3) semantic level: models and formalisms for the representation of meaning, 
+Several application domains will be presented: Linguistic engineering, Information Retrieval, Text mining (automated knowledge extraction), Textual Data Analysis (automated document classification, visualization of textual data).|
 
 
-|CS 269|[Seminar: Machine Learning in Natural Language Processing](https://uclanlp.github.io/CS269-17/overview)|||
+|CS249 |[Advanced Seminar: Learning from Text](http://oak.cs.ucla.edu/classes/cs249/)|UCLA|Humans use language to perceive, describe, communicate, and record the world around them, so text is the primary “data” generated by humans. Despite the importance of text data written in natural languages, making computers “understand” them is still a challenging task. In this class, we will go through key papers in natural language processing (NLP) throughout the quarter and learn (1) how NLP problems can be formulated as a computational problem and (2) the basic algorithms that solve the formulated problems.|
+
+
+|CS 269|[Seminar: Machine Learning in Natural Language Processing](https://uclanlp.github.io/CS269-17/overview)|UCLA|Natural language processing (NLP) enables computers to use and understand human languages. Recently, NLP techniques have been widely used in many applications including machine translation, question answering, and extracting information from text. In this course, we will cover the fundamental elements and recent research trends in NLP. Tentative topics include syntactic analysis, semantic analysis, and NLP applications as well as the underlying machine learning methods that widely used in modeling NLP systems. The activities of the course include lectures, paper presentations, quizzes, a critical review report, and a final project.|
 
 
 ||[Natural Language Generation](https://sites.google.com/view/nlg-spring19)|||
