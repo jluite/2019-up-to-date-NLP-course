@@ -1,10 +1,7 @@
 
 
-2019 NLP/NLU Courses
+#2019 NLP/NLU Courses
 ===========================
-
-
-# NLP/NLU
 
 |#|**Course**|**University**|**Course Description**|**Time**|
 |---|----|-----|-----|---------|
